@@ -1,0 +1,86 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Bulgaria,2020-12-29,Pfizer/BioNTech,https://www.dnes.bg/politika/2020/12/29/prof-angelov-1719-vaksinirani-do-momenta-ima-vse-poveche-jelaeshti.474821,1719,1719,
+Bulgaria,2020-12-30,Pfizer/BioNTech,https://coronavirus.bg/bg/statistika,4608,4608,
+Bulgaria,2021-01-01,Pfizer/BioNTech,https://coronavirus.bg/bg/statistika,4739,4739,
+Bulgaria,2021-01-05,Pfizer/BioNTech,https://coronavirus.bg/bg/statistika,5448,5448,
+Bulgaria,2021-01-06,Pfizer/BioNTech,https://coronavirus.bg/bg/statistika,7913,7913,
+Bulgaria,2021-01-07,Pfizer/BioNTech,https://coronavirus.bg/bg/statistika,11117,11117,
+Bulgaria,2021-01-08,Pfizer/BioNTech,https://coronavirus.bg/bg/statistika,13355,13355,
+Bulgaria,2021-01-09,Pfizer/BioNTech,https://coronavirus.bg/bg/statistika,13473,13473,
+Bulgaria,2021-01-11,Pfizer/BioNTech,https://coronavirus.bg/bg/statistika,14161,14161,
+Bulgaria,2021-01-12,Pfizer/BioNTech,https://coronavirus.bg/bg/statistika,15780,15780,
+Bulgaria,2021-01-13,Pfizer/BioNTech,https://coronavirus.bg/bg/statistika,17038,17038,
+Bulgaria,2021-01-14,Pfizer/BioNTech,https://coronavirus.bg/bg/statistika,17686,17686,
+Bulgaria,2021-01-15,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,18126,18126,
+Bulgaria,2021-01-16,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,18332,18332,
+Bulgaria,2021-01-17,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,18453,18453,
+Bulgaria,2021-01-18,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,19638,18524,1114
+Bulgaria,2021-01-19,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,22226,19058,3168
+Bulgaria,2021-01-20,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,24127,19834,4293
+Bulgaria,2021-01-21,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,25251,20719,4532
+Bulgaria,2021-01-22,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,26101,21496,4605
+Bulgaria,2021-01-23,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,26119,21509,4610
+Bulgaria,2021-01-24,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,26143,21533,4610
+Bulgaria,2021-01-25,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,26798,22129,4669
+Bulgaria,2021-01-26,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,29122,23667,5455
+Bulgaria,2021-01-27,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,32917,25245,7672
+Bulgaria,2021-01-28,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,37636,26753,10883
+Bulgaria,2021-01-29,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,40805,27856,12949
+Bulgaria,2021-01-30,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,41020,27957,13063
+Bulgaria,2021-01-31,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,41125,28041,13084
+Bulgaria,2021-02-01,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,42634,28978,13656
+Bulgaria,2021-02-02,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,45917,30817,15100
+Bulgaria,2021-02-03,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,50124,33691,16433
+Bulgaria,2021-02-04,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,54025,36929,17096
+Bulgaria,2021-02-05,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,56860,39468,17392
+Bulgaria,2021-02-06,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,57016,39624,17392
+Bulgaria,2021-02-07,"Moderna, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,57038,39646,17392
+Bulgaria,2021-02-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,58888,41407,17481
+Bulgaria,2021-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,62428,44482,17946
+Bulgaria,2021-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,66163,47551,18612
+Bulgaria,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,71123,51435,19688
+Bulgaria,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,74694,54123,20571
+Bulgaria,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,75320,54646,20674
+Bulgaria,2021-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,75388,54690,20698
+Bulgaria,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,77436,56113,21323
+Bulgaria,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,81338,58562,22776
+Bulgaria,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,85920,61813,24107
+Bulgaria,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,90514,65073,25441
+Bulgaria,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,104268,77518,26750
+Bulgaria,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,108356,81433,26923
+Bulgaria,2021-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,119354,92381,26973
+Bulgaria,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,131063,103111,27952
+Bulgaria,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,148226,118549,29677
+Bulgaria,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,168462,136454,32008
+Bulgaria,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,188512,153793,34719
+Bulgaria,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,204439,167258,37181
+Bulgaria,2021-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,209760,172393,37367
+Bulgaria,2021-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,212445,175066,37379
+Bulgaria,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,223539,184764,38775
+Bulgaria,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,243772,202247,41525
+Bulgaria,2021-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,248169,206296,41873
+Bulgaria,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,268544,221832,46712
+Bulgaria,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,284464,234526,49938
+Bulgaria,2021-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,287118,237067,50051
+Bulgaria,2021-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,288631,238575,50056
+Bulgaria,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,294132,243479,50653
+Bulgaria,2021-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,302151,250507,51644
+Bulgaria,2021-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,309145,256410,52735
+Bulgaria,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,324446,270587,53859
+Bulgaria,2021-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,336660,279324,57336
+Bulgaria,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,337904,280137,57767
+Bulgaria,2021-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,338879,280462,58417
+Bulgaria,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,341707,281713,59994
+Bulgaria,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,345994,284266,61728
+Bulgaria,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,350702,286950,63752
+Bulgaria,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,356052,289311,66741
+Bulgaria,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,362721,293176,69545
+Bulgaria,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,366547,295794,70753
+Bulgaria,2021-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,368905,297681,71224
+Bulgaria,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,376370,302517,73853
+Bulgaria,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,388805,310415,78390
+Bulgaria,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,401309,321332,79977
+Bulgaria,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,415601,332467,83134
+Bulgaria,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,430228,343120,87108
+Bulgaria,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,434158,346392,87766
+Bulgaria,2021-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.bg/bg/statistika,436541,348327,88214

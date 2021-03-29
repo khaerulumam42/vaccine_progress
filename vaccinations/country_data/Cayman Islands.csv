@@ -1,0 +1,21 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Cayman Islands,2020-12-26,Pfizer/BioNTech,https://www.caymancompass.com/2021/01/25/vaccinations-move-to-stage-2-this-week/,0,0,0
+Cayman Islands,2021-02-04,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard,11008,7811,3197
+Cayman Islands,2021-02-09,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard,13609,8839,4770
+Cayman Islands,2021-02-10,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard,14086,8912,5174
+Cayman Islands,2021-02-12,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard,15543,9172,6371
+Cayman Islands,2021-02-17,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard,16725,9783,6942
+Cayman Islands,2021-02-19,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard,17285,10277,7008
+Cayman Islands,2021-02-20,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard,18159,10521,7638
+Cayman Islands,2021-02-23,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard,19938,12245,7693
+Cayman Islands,2021-02-24,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard,20468,12710,7758
+Cayman Islands,2021-02-25,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard,21106,,
+Cayman Islands,2021-03-03,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics#vaccine-dashboard,24008,,
+Cayman Islands,2021-03-05,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-news,26580,17702,8878
+Cayman Islands,2021-03-12,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-news,31980,21864,10116
+Cayman Islands,2021-03-16,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics,35984,24366,11648
+Cayman Islands,2021-03-18,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics,38304,25957,12347
+Cayman Islands,2021-03-19,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics,39145,26321,12824
+Cayman Islands,2021-03-22,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics,41155,27611,13544
+Cayman Islands,2021-03-24,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics,43023,28248,14775
+Cayman Islands,2021-03-25,Pfizer/BioNTech,https://www.exploregov.ky/coronavirus-statistics,44061,28605,15456

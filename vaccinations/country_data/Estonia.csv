@@ -1,0 +1,83 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Estonia,2020-12-28,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-28-detsember-oopaevaga-lisandus-416-positiivset-testi,207,,
+Estonia,2020-12-29,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-29-detsember-oopaevaga-lisandus-478-positiivset-testi,516,,
+Estonia,2020-12-30,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-30-detsember-oopaevaga-lisandus-968-positiivset-testi,884,,
+Estonia,2020-12-31,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-31-detsember-oopaevaga-lisandus-738-positiivset-testi,1907,,
+Estonia,2021-01-01,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-1-jaanuar-oopaevaga-lisandus-417-positiivset-testi,2487,,
+Estonia,2021-01-03,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-3-jaanuar-oopaevaga-lisandus-342-positiivset-testi,2517,,
+Estonia,2021-01-04,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-4-jaanuar-oopaevaga-lisandus-390-positiivset-testi,2535,,
+Estonia,2021-01-05,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-5-jaanuar-oopaevaga-lisandus-429-positiivset-testi,3188,,
+Estonia,2021-01-06,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-6-jaanuar-oopaevaga-lisandus-723-positiivset-testi,5009,,
+Estonia,2021-01-07,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-7-jaanuar-oopaevaga-lisandus-1104-positiivset-testi,6632,,
+Estonia,2021-01-08,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-8-jaanuar-oopaevaga-lisandus-788-positiivset-testi,7973,,
+Estonia,2021-01-09,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-9-jaanuar-oopaevaga-lisandus-556-positiivset-testi,10197,,
+Estonia,2021-01-10,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-10-jaanuar-oopaevaga-lisandus-429-positiivset-testi,10749,,
+Estonia,2021-01-11,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-11-jaanuar-oopaevaga-lisandus-290-positiivset-testi,10972,,
+Estonia,2021-01-12,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-12-jaanuar-oopaevaga-lisandus-335-positiivset-testi,11896,,
+Estonia,2021-01-13,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-13-jaanuar-oopaevaga-lisandus-855-positiivset-testi,13481,,
+Estonia,2021-01-14,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-14-jaanuar-oopaevaga-lisandus-632-positiivset-testi,14879,,
+Estonia,2021-01-15,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-15-jaanuar-oopaevaga-lisandus-476-positiivset-testi,16677,,
+Estonia,2021-01-16,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-16-jaanuar-oopaevaga-lisandus-618-positiivset-testi,17959,,
+Estonia,2021-01-17,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-17-jaanuar-oopaevaga-lisandus-390-positiivset-testi,18179,,
+Estonia,2021-01-18,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-18-jaanuar-oopaevaga-lisandus-265-positiivset-testi,18275,,
+Estonia,2021-01-19,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-19-jaanuar-oopaevaga-lisandus-600-positiivset-testi,19315,,
+Estonia,2021-01-20,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-20-jaanuar-oopaevaga-lisandus-603-positiivset-testi,20478,,
+Estonia,2021-01-21,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-21-jaanuar-oopaevaga-lisandus-669-positiivset-testi,21985,,
+Estonia,2021-01-22,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-22-jaanuar-oopaevaga-lisandus-490-positiivset-testi,24196,,
+Estonia,2021-01-23,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-23-jaanuar-oopaevaga-lisandus-487-positiivset-testi,25704,,
+Estonia,2021-01-24,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-24-jaanuar-oopaevaga-lisandus-532-positiivset-testi,25964,,
+Estonia,2021-01-25,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-25-jaanuar-oopaevaga-lisandus-259-positiivset-testi,26126,,
+Estonia,2021-01-26,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-26-jaanuar-oopaevaga-lisandus-357-positiivset-testi,27180,,
+Estonia,2021-01-27,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-27-jaanuar-oopaevaga-lisandus-636-positiivset-testi,29594,,
+Estonia,2021-01-28,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-28-jaanuar-oopaevaga-lisandus-690-positiivset-testi,31629,25415,6214
+Estonia,2021-01-29,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-29-jaanuar-oopaevaga-lisandus-691-positiivset-testi,34019,26412,7607
+Estonia,2021-01-30,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-30-jaanuar-oopaevaga-lisandus-405-positiivset-testi,37230,27633,9597
+Estonia,2021-01-31,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-31-jaanuar-oopaevaga-lisandus-468-positiivset-testi,38055,27900,10155
+Estonia,2021-02-01,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-1-veebruar-oopaevaga-lisandus-367-positiivset-testi,38594,28186,10408
+Estonia,2021-02-02,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-2-veebruar-oopaevaga-lisandus-467-positiivset-testi,40217,28907,11310
+Estonia,2021-02-03,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-3-veebruar-oopaevaga-lisandus-688-positiivset-testi,43000,30158,12842
+Estonia,2021-02-04,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-4-veebruar-oopaevaga-lisandus-673-positiivset-testi,46194,31864,14330
+Estonia,2021-02-05,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-5-veebruar-oopaevaga-lisandus-596-positiivset-testi,49798,33927,15871
+Estonia,2021-02-06,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-6-veebruar-oopaevaga-lisandus-589-positiivset-testi,52868,35492,17376
+Estonia,2021-02-07,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-7-veebruar-oopaevaga-lisandus-417-positiivset-testi,53424,35905,17519
+Estonia,2021-02-08,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-8-veebruar-oopaevaga-lisandus-339-positiivset-testi,53481,35917,17564
+Estonia,2021-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-10-veebruar-oopaevaga-lisandus-798-positiivset-testi,58261,39147,19114
+Estonia,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-11-veebruar-oopaevaga-lisandus-677-positiivset-testi,61757,41731,20026
+Estonia,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-12-veebruar-oopaevaga-lisandus-717-positiivset-testi,65798,44486,21312
+Estonia,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-13-veebruar-oopaevaga-lisandus-760-positiivset-testi,68146,46020,22126
+Estonia,2021-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-14-veebruar-oopaevaga-lisandus-667-positiivset-testi,68436,46152,22284
+Estonia,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-15-veebruar-oopaevaga-lisandus-412-positiivset-testi,68497,46154,22343
+Estonia,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-16-veebruar-oopaevaga-lisandus-622-positiivset-testi,69313,46740,22573
+Estonia,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-17-veebruar-oopaevaga-lisandus-811-positiivset-testi,71722,48573,23149
+Estonia,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-18-veebruar-oopaevaga-lisandus-996-positiivset-testi,76075,52263,23812
+Estonia,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-19-veebruar-oopaevaga-lisandus-952-positiivset-testi,82370,57543,24827
+Estonia,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-20-veebruar-oopaevaga-lisandus-787-positiivset-testi,87147,61316,25831
+Estonia,2021-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-21-veebruar-oopaevaga-lisandus-583-positiivset-testi,87957,61904,26053
+Estonia,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-22-veebruar-oopaevaga-lisandus-829-positiivset-testi,88790,62415,26375
+Estonia,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-23-veebruar-oopaevaga-lisandus-962-positiivset-testi,91785,64508,27277
+Estonia,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-24-veebruar-oopaevaga-lisandus-1069-positiivset-testi,96515,68297,28218
+Estonia,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-25-veebruar-oopaevaga-lisandus-1154-positiivset-testi,96980,68629,28351
+Estonia,2021-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-27-veebruar-oopaevaga-lisandus-1570-positiivset-testi,111039,77536,33503
+Estonia,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-1-marts-oopaevaga-lisandus-1028-positiivset-testi,112809,78759,34050
+Estonia,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-2-marts-oopaevaga-lisandus-1113-positiivset-testi,116276,81209,35067
+Estonia,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-4-marts-oopaevaga-lisandus-1420-positiivset-testi,126848,87086,39762
+Estonia,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-5-marts-oopaevaga-lisandus-1536-positiivset-testi-manustati-7656,134504,92270,42234
+Estonia,2021-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-7-marts-oopaevaga-lisandus-1321-positiivset-testi,145394,101452,43942
+Estonia,2021-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-9-marts-oopaevaga-lisandus-1308-positiivset-testi,150080,105845,44235
+Estonia,2021-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-10-marts-oopaevaga-lisandus-1484-positiivset-testi,155175,109865,45310
+Estonia,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-11-marts-oopaevaga-lisandus-1957-positiivset-testi,161693,113898,47795
+Estonia,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-13-marts-oopaevaga-lisandus-1586-positiivset-testi,180400,127829,52571
+Estonia,2021-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-14-marts-oopaevaga-lisandus-935-positiivset-testi,185912,133263,52649
+Estonia,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-15-marts-oopaevaga-lisandus-1281-positiivset-testi,191207,138543,52664
+Estonia,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-16-marts-oopaevaga-lisandus-1463-positiivset-testi,194844,141912,52932
+Estonia,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-17-marts-oopaevaga-lisandus-1784-positiivset-testi,199394,145665,53729
+Estonia,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-18-marts-oopaevaga-lisandus-1700-positiivset-testi,204831,150844,53987
+Estonia,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-19-marts-oopaevaga-lisandus-1751-positiivset-testi,212261,157489,54772
+Estonia,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-20-marts-oopaevaga-lisandus-1250-positiivset-testi,220882,163936,56946
+Estonia,2021-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-21-marts-oopaevaga-lisandus-1375-positiivset-testi,223166,166163,57003
+Estonia,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-22-marts-oopaevaga-lisandus-993-positiivset-testi,224511,167488,57023
+Estonia,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-23-marts-oopaevaga-lisandus-1064-positiivset-testi,226994,169435,57559
+Estonia,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-24-marts-oopaevaga-lisandus-1553-positiivset-testi,229921,172183,57738
+Estonia,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-25-marts-oopaevaga-lisandus-1429-positiivset-testi,235600,177457,58143
+Estonia,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-27-marts-oopaevaga-lisandus-1151-positiivset-testi,252278,191723,60555
+Estonia,2021-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-28-marts-oopaevaga-lisandus-892-positiivset-testi,254683,193870,60813

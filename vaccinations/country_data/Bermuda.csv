@@ -1,0 +1,15 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Bermuda,2021-01-10,Pfizer/BioNTech,https://www.gov.bm/articles/covid-19-update-minister-health%E2%80%99s-remarks-19-january-2021,0,0,0
+Bermuda,2021-01-16,Pfizer/BioNTech,https://www.gov.bm/articles/covid-19-update-minister-health%E2%80%99s-remarks-19-january-2021,1665,1665,0
+Bermuda,2021-01-23,Pfizer/BioNTech,https://www.gov.bm/articles/covid-19-update-minister-health-remarks-26-january-2021,2932,2932,0
+Bermuda,2021-01-30,Pfizer/BioNTech,https://www.gov.bm/sites/default/files/COVID-19%20Vaccination%20Updates.pdf,4897,4897,0
+Bermuda,2021-02-06,Pfizer/BioNTech,https://www.gov.bm/articles/covid-19-update-minister-health-remarks-9-february,9095,7504,1591
+Bermuda,2021-02-09,Pfizer/BioNTech,https://www.gov.bm/articles/covid-19-update-premiers-remarks-9-february-2021,10000,8400,1600
+Bermuda,2021-02-15,Pfizer/BioNTech,https://www.gov.bm/articles/covid-19-update-premiers-remarks-16-february-2021,13155,,
+Bermuda,2021-02-22,Pfizer/BioNTech,https://bernews.com/2021/02/video-govt-press-conference-no-new-cases/,17073,12304,4769
+Bermuda,2021-02-27,Pfizer/BioNTech,https://www.gov.bm/articles/covid-19-update-minister-health-remarks-2-march-2021,20705,13659,7046
+Bermuda,2021-03-01,Pfizer/BioNTech,https://www.gov.bm/articles/covid-19-update-premier%E2%80%99s-remarks-2-march-2021,21387,,
+Bermuda,2021-03-03,Pfizer/BioNTech,https://bernews.com/2021/03/minister-covid-19-vaccine-bermuda/,23939,15294,8645
+Bermuda,2021-03-10,Pfizer/BioNTech,https://bernews.com/2021/03/27727-total-vaccinations-administered/,27727,17395,10332
+Bermuda,2021-03-15,Pfizer/BioNTech,https://bernews.com/2021/03/29-of-population-had-one-dose-18-had-two/,30481,18807,11674
+Bermuda,2021-03-22,Pfizer/BioNTech,https://bernews.com/2021/03/video-govt-press-conference-10-new-cases/,34204,21049,13155

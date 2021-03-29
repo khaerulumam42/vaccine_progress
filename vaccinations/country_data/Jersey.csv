@@ -1,0 +1,12 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Jersey,2021-01-24,Pfizer/BioNTech,https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx,11385,8334,3051
+Jersey,2021-01-31,Pfizer/BioNTech,https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx,14838,11707,3131
+Jersey,2021-02-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx,21007,17829,3178
+Jersey,2021-02-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx,25952,22696,3256
+Jersey,2021-02-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx,29312,26025,3287
+Jersey,2021-02-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx,33511,30191,3320
+Jersey,2021-03-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx,39428,36049,3379
+Jersey,2021-03-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx,42231,38073,4158
+Jersey,2021-03-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx,45758,40137,5621
+Jersey,2021-03-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx,48732,41741,6991
+Jersey,2021-03-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://www.gov.je/Health/Coronavirus/Vaccine/Pages/VaccinationStatistics.aspx,52265,43136,9129

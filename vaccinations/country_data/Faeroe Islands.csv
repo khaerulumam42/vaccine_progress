@@ -1,0 +1,20 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Faeroe Islands,2021-01-29,Pfizer/BioNTech,https://corona.fo/api,3994,3993,1
+Faeroe Islands,2021-02-06,Pfizer/BioNTech,https://corona.fo/api,4657,4051,606
+Faeroe Islands,2021-02-08,Pfizer/BioNTech,https://corona.fo/api,4783,4098,685
+Faeroe Islands,2021-02-10,Pfizer/BioNTech,https://corona.fo/api,5355,4134,1221
+Faeroe Islands,2021-02-21,Pfizer/BioNTech,https://corona.fo/api,5682,4167,1515
+Faeroe Islands,2021-02-23,Pfizer/BioNTech,https://corona.fo/api,6259,4172,2087
+Faeroe Islands,2021-02-24,Pfizer/BioNTech,https://corona.fo/api,6713,4190,2523
+Faeroe Islands,2021-03-03,Pfizer/BioNTech,https://corona.fo/api,7041,4211,2830
+Faeroe Islands,2021-03-04,Pfizer/BioNTech,https://corona.fo/api,7394,4238,3156
+Faeroe Islands,2021-03-05,Pfizer/BioNTech,https://corona.fo/api,7563,4251,3312
+Faeroe Islands,2021-03-06,Pfizer/BioNTech,https://corona.fo/api,7925,4251,3674
+Faeroe Islands,2021-03-08,"Moderna, Pfizer/BioNTech",https://corona.fo/api,8068,4260,3808
+Faeroe Islands,2021-03-12,"Moderna, Pfizer/BioNTech",https://corona.fo/api,8832,4901,3931
+Faeroe Islands,2021-03-16,"Moderna, Pfizer/BioNTech",https://corona.fo/api,8967,4988,3979
+Faeroe Islands,2021-03-17,"Moderna, Pfizer/BioNTech",https://corona.fo/api,9170,5173,3997
+Faeroe Islands,2021-03-18,"Moderna, Pfizer/BioNTech",https://corona.fo/api,9342,5309,4033
+Faeroe Islands,2021-03-22,"Moderna, Pfizer/BioNTech",https://corona.fo/api,9427,5388,4039
+Faeroe Islands,2021-03-26,"Moderna, Pfizer/BioNTech",https://corona.fo/api,9660,5586,4074
+Faeroe Islands,2021-03-27,"Moderna, Pfizer/BioNTech",https://corona.fo/api,9959,5853,4106

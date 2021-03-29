@@ -1,0 +1,31 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Uruguay,2021-02-27,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,371,371,0
+Uruguay,2021-02-28,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,371,371,0
+Uruguay,2021-03-01,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,18358,18358,0
+Uruguay,2021-03-02,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,33034,33034,0
+Uruguay,2021-03-03,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,54276,54276,0
+Uruguay,2021-03-04,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,63231,63231,0
+Uruguay,2021-03-05,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,72427,72427,0
+Uruguay,2021-03-06,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,72427,72427,0
+Uruguay,2021-03-07,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,72427,72427,0
+Uruguay,2021-03-08,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,100569,100569,0
+Uruguay,2021-03-09,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,122382,122382,0
+Uruguay,2021-03-10,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,147546,147546,0
+Uruguay,2021-03-11,Sinovac,https://monitor.uruguaysevacuna.gub.uy/,169891,169891,0
+Uruguay,2021-03-12,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,192636,192636,0
+Uruguay,2021-03-13,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,203050,203050,0
+Uruguay,2021-03-14,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,203050,203050,0
+Uruguay,2021-03-15,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,214433,214433,0
+Uruguay,2021-03-16,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,220655,220655,0
+Uruguay,2021-03-17,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,228480,228480,0
+Uruguay,2021-03-18,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,264949,264949,0
+Uruguay,2021-03-19,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,300668,300668,0
+Uruguay,2021-03-20,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,312935,312935,0
+Uruguay,2021-03-21,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,312940,312940,0
+Uruguay,2021-03-22,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,348337,348337,0
+Uruguay,2021-03-23,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,382147,382147,0
+Uruguay,2021-03-24,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,415832,415832,0
+Uruguay,2021-03-25,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,456984,456984,0
+Uruguay,2021-03-26,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,497599,497599,0
+Uruguay,2021-03-27,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,510638,510341,297
+Uruguay,2021-03-28,"Sinovac, Pfizer/BioNTech",https://monitor.uruguaysevacuna.gub.uy/,510342,510045,297
