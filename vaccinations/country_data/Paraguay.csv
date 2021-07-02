@@ -1,28 +1,127 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Paraguay,2021-02-21,Sputnik V,https://www.abc.com.py/nacionales/2021/02/25/llegan-a-1000-los-trabajadores-de-salud-que-recibieron-las-vacunas-anticovid/,0,0,
-Paraguay,2021-02-22,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,200,200,
-Paraguay,2021-02-23,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,545,545,
-Paraguay,2021-02-24,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,1000,1000,
-Paraguay,2021-02-25,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,1360,1360,
-Paraguay,2021-02-26,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,1520,1520,
-Paraguay,2021-03-02,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,1630,1630,
-Paraguay,2021-03-03,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,1695,1695,
-Paraguay,2021-03-04,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,1725,1725,
-Paraguay,2021-03-07,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,1775,1775,
-Paraguay,2021-03-08,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,1875,1875,
-Paraguay,2021-03-09,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,1925,1925,
-Paraguay,2021-03-10,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,2886,2886,
-Paraguay,2021-03-11,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,4715,4715,
-Paraguay,2021-03-12,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,7843,7843,
-Paraguay,2021-03-13,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,9903,9903,
-Paraguay,2021-03-14,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,11638,11638,
-Paraguay,2021-03-15,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,12073,11923,
-Paraguay,2021-03-16,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,13048,12553,
-Paraguay,2021-03-17,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,13924,13009,
-Paraguay,2021-03-18,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,14462,13242,
-Paraguay,2021-03-19,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,14696,13326,
-Paraguay,2021-03-20,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,14697,13328,
-Paraguay,2021-03-22,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,14734,13334,
-Paraguay,2021-03-23,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,18799,17294,
-Paraguay,2021-03-24,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,23818,22240,
-Paraguay,2021-03-25,Sputnik V,https://vacunate.mspbs.gov.py/index-listado-vacunados.php,28830,27212,
+Paraguay,2021-02-21,Sputnik V,https://www.abc.com.py/nacionales/2021/02/25/llegan-a-1000-los-trabajadores-de-salud-que-recibieron-las-vacunas-anticovid/,0,0,0
+Paraguay,2021-02-22,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,200,200,0
+Paraguay,2021-02-23,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,545,545,0
+Paraguay,2021-02-24,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,1000,1000,0
+Paraguay,2021-02-25,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,1360,1360,0
+Paraguay,2021-02-26,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,1520,1520,0
+Paraguay,2021-03-01,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,1521,1521,0
+Paraguay,2021-03-02,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,1631,1631,0
+Paraguay,2021-03-03,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,1696,1696,0
+Paraguay,2021-03-04,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,1726,1726,0
+Paraguay,2021-03-05,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,1776,1776,0
+Paraguay,2021-03-06,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,1777,1777,0
+Paraguay,2021-03-08,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,1877,1877,0
+Paraguay,2021-03-09,Sputnik V,https://www.vacunate.gov.py/index-listado-vacunados.html,1927,1927,0
+Paraguay,2021-03-10,"Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,2888,2888,0
+Paraguay,2021-03-11,"Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,4719,4719,0
+Paraguay,2021-03-12,"Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,7857,7857,0
+Paraguay,2021-03-13,"Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,9925,9925,0
+Paraguay,2021-03-14,"Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,11660,11660,0
+Paraguay,2021-03-15,"Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,12098,11947,151
+Paraguay,2021-03-16,"Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,13123,12627,496
+Paraguay,2021-03-17,"Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,14001,13085,916
+Paraguay,2021-03-18,"Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,14539,13318,1221
+Paraguay,2021-03-19,"Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,14780,13404,1376
+Paraguay,2021-03-20,"Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,14785,13409,1376
+Paraguay,2021-03-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,14788,13412,1376
+Paraguay,2021-03-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,14817,13416,1401
+Paraguay,2021-03-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,19057,17550,1507
+Paraguay,2021-03-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,24810,23223,1587
+Paraguay,2021-03-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,30790,29162,1628
+Paraguay,2021-03-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,35920,34260,1660
+Paraguay,2021-03-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,38282,36622,1660
+Paraguay,2021-03-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,39230,37570,1660
+Paraguay,2021-03-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,42576,40834,1742
+Paraguay,2021-03-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,44980,43197,1783
+Paraguay,2021-03-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,46347,44522,1825
+Paraguay,2021-04-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,46417,44592,1825
+Paraguay,2021-04-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,46725,44899,1826
+Paraguay,2021-04-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,46729,44903,1826
+Paraguay,2021-04-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,47286,45440,1846
+Paraguay,2021-04-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,47964,46025,1939
+Paraguay,2021-04-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,49357,46566,2791
+Paraguay,2021-04-08,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,51518,47265,4253
+Paraguay,2021-04-09,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,53958,47495,6463
+Paraguay,2021-04-10,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,55999,48437,7562
+Paraguay,2021-04-11,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,57685,49715,7970
+Paraguay,2021-04-12,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,62341,52892,9449
+Paraguay,2021-04-13,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,70664,60387,10277
+Paraguay,2021-04-14,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,78580,67706,10874
+Paraguay,2021-04-15,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,85734,74437,11297
+Paraguay,2021-04-16,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,91172,79473,11699
+Paraguay,2021-04-17,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,92379,80639,11740
+Paraguay,2021-04-18,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,92710,80963,11747
+Paraguay,2021-04-19,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,95226,83349,11877
+Paraguay,2021-04-20,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,97414,85444,11970
+Paraguay,2021-04-21,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,99184,87143,12041
+Paraguay,2021-04-22,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,100837,88726,12111
+Paraguay,2021-04-23,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,102210,90024,12186
+Paraguay,2021-04-24,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,102459,90230,12229
+Paraguay,2021-04-25,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,102604,90371,12233
+Paraguay,2021-04-26,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,103629,91337,12292
+Paraguay,2021-04-27,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,108692,96363,12329
+Paraguay,2021-04-28,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,115938,103565,12373
+Paraguay,2021-04-29,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,125644,113242,12402
+Paraguay,2021-04-30,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,133915,121458,12457
+Paraguay,2021-05-01,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,134607,122145,12462
+Paraguay,2021-05-02,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,135144,122672,12472
+Paraguay,2021-05-03,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,142718,130109,12609
+Paraguay,2021-05-04,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,150082,137167,12915
+Paraguay,2021-05-05,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,157554,144293,13261
+Paraguay,2021-05-06,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,163497,149943,13554
+Paraguay,2021-05-07,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,169299,155308,13991
+Paraguay,2021-05-08,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,170407,156140,14267
+Paraguay,2021-05-09,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,171195,156701,14494
+Paraguay,2021-05-10,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,183122,166349,16773
+Paraguay,2021-05-11,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,196957,176616,20341
+Paraguay,2021-05-12,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,211808,187418,24390
+Paraguay,2021-05-13,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,229690,199629,30061
+Paraguay,2021-05-14,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,238936,207460,31476
+Paraguay,2021-05-15,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,240638,208916,31722
+Paraguay,2021-05-16,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,242643,210601,32042
+Paraguay,2021-05-17,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,254440,215636,38804
+Paraguay,2021-05-18,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,274837,230841,43996
+Paraguay,2021-05-19,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,294209,245109,49100
+Paraguay,2021-05-20,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,313129,259495,53634
+Paraguay,2021-05-21,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,329853,271989,57864
+Paraguay,2021-05-22,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,338250,279462,58788
+Paraguay,2021-05-23,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,338365,279513,58852
+Paraguay,2021-05-24,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,346819,283307,63512
+Paraguay,2021-05-25,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,351991,284596,67395
+Paraguay,2021-05-26,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,357032,285790,71242
+Paraguay,2021-05-27,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,362030,286539,75491
+Paraguay,2021-05-28,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,367956,287216,80740
+Paraguay,2021-05-29,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,369221,287553,81668
+Paraguay,2021-05-30,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,369594,287670,81924
+Paraguay,2021-05-31,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,375683,289330,86353
+Paraguay,2021-06-01,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,378773,289799,88974
+Paraguay,2021-06-02,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,380877,289984,90893
+Paraguay,2021-06-03,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,384121,290219,93902
+Paraguay,2021-06-04,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,389245,291966,97279
+Paraguay,2021-06-05,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,392606,294723,97883
+Paraguay,2021-06-06,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,393720,295670,98050
+Paraguay,2021-06-07,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,404106,302035,102071
+Paraguay,2021-06-08,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,412340,308151,104189
+Paraguay,2021-06-09,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,421080,315202,105878
+Paraguay,2021-06-10,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,433125,323290,109835
+Paraguay,2021-06-11,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,445974,331527,114447
+Paraguay,2021-06-12,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,468358,353823,114535
+Paraguay,2021-06-13,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,491688,377081,114607
+Paraguay,2021-06-14,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,514425,396045,118380
+Paraguay,2021-06-15,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,534982,414970,120012
+Paraguay,2021-06-16,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,551855,430513,121342
+Paraguay,2021-06-17,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,576879,454220,122659
+Paraguay,2021-06-18,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,594585,468867,125718
+Paraguay,2021-06-19,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,594752,469015,125737
+Paraguay,2021-06-20,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,595439,469695,125744
+Paraguay,2021-06-21,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,611738,483427,128311
+Paraguay,2021-06-22,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,619771,490014,129757
+Paraguay,2021-06-23,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,626577,496213,130364
+Paraguay,2021-06-24,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,628538,496679,131859
+Paraguay,2021-06-25,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,629962,496838,133124
+Paraguay,2021-06-26,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,631937,498799,133138
+Paraguay,2021-06-27,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,633348,500209,133139
+Paraguay,2021-06-28,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,646023,512711,133312
+Paraguay,2021-06-29,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,657795,524415,133380
+Paraguay,2021-06-30,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",https://www.vacunate.gov.py/index-listado-vacunados.html,660351,526960,133391

@@ -1,22 +1,136 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Cambodia,2021-02-09,Sinopharm/Beijing,https://abcnews.go.com/Health/wireStory/cambodia-begins-vaccination-campaign-covid-19-75794053,0,0,
-Cambodia,2021-02-10,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3764520406920371,1492,1492,
-Cambodia,2021-02-17,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3776565405715871,3236,3236,
-Cambodia,2021-02-19,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3781415121897566?__cft__[0]=AZWsEcoiHE9Z9B260AGUhKnB41w8FuDUliDd2fetbX1knPN9bnz5ypKor0tWLBEPNfNeYOtXleyaFWPE7pTmYeZwgNt496--NG-jE9Ut8aOkR9r2FWasSguB3RKolOh27tHBtwFF99k5nTZOuxVlVH7o&__tn__=%2CO%2CP-R,4609,4609,
-Cambodia,2021-02-23,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/3791117984260613,7770,7770,
-Cambodia,2021-02-25,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3800852993287112?__cft__[0]=AZUtBFs2MEJXUMB-QPVSnm3d7yhCSDBavMt8C0YB7WwlQhYWTtoGU1YDrIMoJbON6Az-b3sp-YO6m4CcKCaKoIK8On46QqdNluzLPqdsmAKSvWtKuheQQemtgJ5NsNAIIfsatCRx0DLq-sq7Np6XlHR4&__tn__=%2CO%2CP-R,13101,13101,
-Cambodia,2021-03-01,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3814544028584675?__cft__[0]=AZUKnW710L-vX1YDP4g1XE-obkxDSJbMn9li_9ebLZXYaYWdRjD3ZUy8zHsRMMVGflW1vm5OBS7tBrqa3E2nUBLPBxMqbkbCBNuea9j8jMkTFuR1Cyr3CxThCRSds_45A2v7BevYb8v4BYWKaYDscH4p&__tn__=%2CO%2CP-R,24331,24331,
-Cambodia,2021-03-02,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3817238058315272?__cft__[0]=AZV38jdH563_kYn8wa0kYeX4lz50exR-MK4BkCxop_E8b9HYwETCcz5g-geLe_FF36tC1c28vrLH1p36QuTAa3ZNv_4Ey0G-WYqQA-LpsuGiZiCUxWaPtomM5X_JkDMBkSBnSWHGrI-hWAh97wIVeKnJ&__tn__=%2CO%2CP-R,33211,33211,
-Cambodia,2021-03-03,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3819623131410098?__cft__[0]=AZXTRH0oW-ISlVPCRH1Uia--nkRms3mgjfcToGwnQ8AAzGmO2XrrlyDrhdt068zxHji3l1xvwXSxsF4chO4YiYvcMElVQGrzaYRwTW82xxh7HYuwHruFaPYvto1rTW1QspFHF268n9nGu265kTxkB-SV&__tn__=%2CO%2CP-R,40910,40910,
-Cambodia,2021-03-06,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3827668337272244?__cft__[0]=AZXAtpxC-7OISSgcaClu25sziJTrnB57rZWQNHm0FPqEUKr4ZyLjh5e3gMYTItCOeOM_yKcOk7lw4ShtwGxEe5bb1bJhj-dRBdNp_PuIcwVR4Xk-JkvyQPIWBb0RZcwSKO4sK65PpM3xZG19ZM_4vCbN&__tn__=%2CO%2CP-R,66847,66847,
-Cambodia,2021-03-07,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3829880593717685?__cft__[0]=AZXJRS2dNBlpPwQXNsOkjl7EWVj59oKkUvNRg1tXWInW9Hpxgyt4KJm8aNqtADSk8i85RENvKCVlxrMXLoITIG7AD6GKX7gzKsx4ZN2AaiM3LbkVmHI68EsLQbu8tBEDv0ILy5JULA8F_SIVP7_TMT7C&__tn__=%2CO%2CP-R,71185,71185,
-Cambodia,2021-03-08,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3832688770103534?__cft__[0]=AZXVNFoHXyDikMWQWTj4fXURK0-lQUzzKOoHErTv2mRokDjb0p_W4xhC7mcdrjpEGzTQYAHZuAnxY4SSYyKo8kjoRz5NgbndIjN1dUUF1XTimJFTnl79tFOtIyjHraMz2zaZsW69SqwIbbwhmFlj0iJN&__tn__=%2CO%2CP-R,77963,77963,
-Cambodia,2021-03-09,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3835099219862489?__cft__[0]=AZU4k_p2RSH7ygyM20lRm53LuscVEOUxXIWOxJLcnZPQqET0aRKq4B0ziwOZgjGJorlttib-5XQNBxfhK724Zt6WJ67IX1MOlV1-VWTRO5KN8SmJwV-UP1WecNdxaUTwQiBWqV-jy1QqZ41A4AR3Hfp0&__tn__=%2CO%2CP-R,89506,89506,
-Cambodia,2021-03-10,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3837691282936616?__cft__[0]=AZWDMBkBEBPqsO7ZLkCvGtJlPAQb8mIl8HzQoc6jnsWEIbLRm5THfyp0-xhT-aYH-27kCUY2QSd4cXkR288NaPDXObCjlhdlNpt1ZjaIUkJ8lDHhOYscM7rFgv3gjPg_wT7Zdzrjd0c91-JEb7yarjWa&__tn__=%2CO%2CP-R,109854,109854,
-Cambodia,2021-03-11,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3840316009340810?__cft__[0]=AZUetI5XPtfXW45OdldgnSeFGtRpPweRvqe1WGoR-7GJ5Lhnwreia2XxlGN3hWLNHdAIp44ARDyzj7pTdwge8AvpuKkGT8pUDCr_d3A-RPF6b99tcOak9DWRpIcP3rSzojMkK1k9RCv7TLGakSmnz4rx&__tn__=%2CO%2CP-R,129908,129908,
-Cambodia,2021-03-12,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3842943682411376?__cft__[0]=AZWillbi6SVPNfcAlwgJRee1QCqfXP1Tc3IAdpxntFnRF97brk7r6Y3YIxhuyjFts2svW9WVehnKu5quMWandSzGyHSezQXVyrYl4sg00UV64QzkGg12ag-ZYM5ftYWZWi8RF-H8LkXuDmR3eAjBvseE&__tn__=%2CO%2CP-R,147591,147591,
-Cambodia,2021-03-13,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3845721502133594?__cft__[0]=AZWSHAa1u_4p-Zdj9dQDW94osvvggMkbtiwb_f-0RVRpgub9bROAyZAM3zJoogE5Vk6AfbXN1SPfJ96oNtrchE5f_8GsfpQESqi8g795a8PmkxivwK7P_ia-w9QlHodPqQIVwDg9DProDJmh8Ie09sYK&__tn__=%2CO%2CP-R,161818,161818,
-Cambodia,2021-03-14,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3848249418547469?__cft__[0]=AZXrSgvYdlleK7yTsDK3hjvDrKZbs7-ZUZRTNkh4IISPpIuwS_wSe8hNk5IPAqFd-vch2H2AWAM5luNFmzMtktNIyZuIrlqnH3WnjiHLl5bLdgIVNX78bJqES5fwEgvOupVAiacJ1qHPe6jtDlph0IjR&__tn__=%2CO%2CP-R,170659,170659,
-Cambodia,2021-03-15,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/posts/3853738647998546,170659,170659,
-Cambodia,2021-03-23,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/3872463629459381/,281123,222726,
-Cambodia,2021-03-24,Sinopharm/Beijing,https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/3876567642382313/,296149,229079,
+Cambodia,2021-02-09,Sinopharm/Beijing,https://abcnews.go.com/Health/wireStory/cambodia-begins-vaccination-campaign-covid-19-75794053,0,0,0
+Cambodia,2021-02-10,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/localnews/186745-2021-02-10-15-53-59.html,339,339,0
+Cambodia,2021-02-12,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/localnews/186863-2021-02-12-16-48-42.html,1492,1492,0
+Cambodia,2021-02-15,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/localnews/187058-2021-02-15-15-48-59.html,7091,7091,0
+Cambodia,2021-02-16,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/localnews/187157-2021-02-16-13-09-33.html,11016,11016,0
+Cambodia,2021-02-17,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/localnews/187273-2021-02-17-14-18-46.html,12167,12167,0
+Cambodia,2021-02-18,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/localnews/187396-2021-02-18-13-47-52.html,16612,16612,0
+Cambodia,2021-02-19,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/localnews/187504-2021-02-19-14-35-42.html,21660,21660,0
+Cambodia,2021-02-21,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/localnews/187677-2021-02-22-00-34-27.html,28134,28134,0
+Cambodia,2021-02-22,Sinopharm/Beijing,"http://www.freshnewsasia.com/index.php/en/localnews/187782-2021-02-22-16-29-50.html,http://www.freshnewsasia.com/index.php/en/localnews/187779-2021-02-22-15-37-40.html",37379,37379,0
+Cambodia,2021-02-23,Sinopharm/Beijing,"http://www.freshnewsasia.com/index.php/en/localnews/187912-2021-02-23-13-00-29.html,http://www.freshnewsasia.com/index.php/en/localnews/187905-2021-02-23-12-10-30.html",44505,44505,0
+Cambodia,2021-02-24,Sinopharm/Beijing,"http://www.freshnewsasia.com/index.php/en/localnews/188024-2021-02-24-13-17-25.html,http://www.freshnewsasia.com/index.php/en/localnews/188011-2021-02-24-11-44-46.html",54350,54286,64
+Cambodia,2021-02-25,Sinopharm/Beijing,"http://www.freshnewsasia.com/index.php/en/localnews/188138-2021-02-25-13-58-46.html,http://www.freshnewsasia.com/index.php/en/localnews/188121-2021-02-25-12-04-30.html",60270,59928,342
+Cambodia,2021-02-26,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/localnews/188242-2021-02-26-13-43-57.html,63825,63217,608
+Cambodia,2021-02-28,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/localnews/188367-2021-02-28-13-11-52.html,69777,68299,1478
+Cambodia,2021-03-01,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/,87069,84736,2333
+Cambodia,2021-03-02,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/,114283,108409,5874
+Cambodia,2021-03-03,Sinopharm/Beijing,http://www.freshnewsasia.com/index.php/en/,135543,125668,9875
+Cambodia,2021-03-04,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,151231,140096,11135
+Cambodia,2021-03-05,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,167773,153718,14055
+Cambodia,2021-03-06,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,178910,162927,15983
+Cambodia,2021-03-07,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,185052,167487,17565
+Cambodia,2021-03-08,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,198636,175675,22961
+Cambodia,2021-03-09,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,221672,188026,33646
+Cambodia,2021-03-10,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,254090,214209,39881
+Cambodia,2021-03-11,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,284894,237379,47515
+Cambodia,2021-03-12,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,308173,255641,52532
+Cambodia,2021-03-13,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,327250,270466,56784
+Cambodia,2021-03-14,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,336900,279307,57593
+Cambodia,2021-03-15,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,346135,286020,60115
+Cambodia,2021-03-16,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,372685,297585,75100
+Cambodia,2021-03-17,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,402917,308459,94458
+Cambodia,2021-03-19,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,441640,317247,124393
+Cambodia,2021-03-20,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,456503,322021,134482
+Cambodia,2021-03-21,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,463872,323689,140183
+Cambodia,2021-03-22,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,475703,328401,147302
+Cambodia,2021-03-23,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,488990,334311,154679
+Cambodia,2021-03-24,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,505830,341912,163918
+Cambodia,2021-03-25,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,531619,354087,177532
+Cambodia,2021-03-26,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,557113,366169,190944
+Cambodia,2021-03-27,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,581186,376147,205039
+Cambodia,2021-03-28,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,595466,383462,212004
+Cambodia,2021-03-29,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,611651,391456,220195
+Cambodia,2021-03-30,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,627769,400666,227103
+Cambodia,2021-03-31,"Oxford/AstraZeneca, Sinopharm/Beijing",http://www.freshnewsasia.com/index.php/en/,645765,407249,238516
+Cambodia,2021-04-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,671847,430117,241730
+Cambodia,2021-04-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,721181,475856,245325
+Cambodia,2021-04-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,777514,529935,247579
+Cambodia,2021-04-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,830031,581591,248440
+Cambodia,2021-04-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,886524,635244,251280
+Cambodia,2021-04-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,945715,692569,253146
+Cambodia,2021-04-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1011649,756526,255123
+Cambodia,2021-04-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1071260,813826,257434
+Cambodia,2021-04-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1174035,913171,260864
+Cambodia,2021-04-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1237988,972028,265960
+Cambodia,2021-04-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1286585,1018605,267980
+Cambodia,2021-04-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1371536,1099811,271725
+Cambodia,2021-04-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1446457,1170029,276428
+Cambodia,2021-04-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1482123,1203636,278487
+Cambodia,2021-04-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1508813,1223322,285491
+Cambodia,2021-04-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1541896,1241947,299949
+Cambodia,2021-04-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1555438,1253531,301907
+Cambodia,2021-04-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1559128,1257214,301914
+Cambodia,2021-04-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1656026,1274846,381180
+Cambodia,2021-04-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1710932,1277688,433244
+Cambodia,2021-04-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1775364,1280434,494930
+Cambodia,2021-04-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1845972,1281406,564566
+Cambodia,2021-04-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1915966,1282196,633770
+Cambodia,2021-04-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,1978548,1293974,684574
+Cambodia,2021-04-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/,2027968,1295660,732308
+Cambodia,2021-04-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/195454-2021-04-26-15-20-11.html,2073616,1295973,777643
+Cambodia,2021-04-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/195585-2021-04-27-16-30-11.html,2117564,1298851,818713
+Cambodia,2021-04-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/195890-2021-04-29-15-32-59.html,2241102,1329433,911669
+Cambodia,2021-04-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/196024-2021-04-30-14-38-34.html,2284788,1339566,945222
+Cambodia,2021-05-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/196155-2021-05-01-15-18-57.html,2334709,1363820,970889
+Cambodia,2021-05-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/196247-2021-05-02-15-23-40.html,2407503,1422722,984781
+Cambodia,2021-05-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/196379-2021-05-03-16-34-37.html,2469822,1465985,1003837
+Cambodia,2021-05-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/196524-2021-05-04-16-42-28.html,2543234,1515447,1027787
+Cambodia,2021-05-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/196667-2021-05-05-14-27-59.html,2608983,1565292,1043691
+Cambodia,2021-05-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/196821-2021-05-06-15-34-05.html,2686691,1606007,1080684
+Cambodia,2021-05-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/196966-2021-05-07-14-56-50.html,2765622,1663249,1102373
+Cambodia,2021-05-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/197081-2021-05-08-13-09-17.html,2826589,1718708,1107881
+Cambodia,2021-05-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/197176-2021-05-09-14-50-30.html,2884922,1773994,1110928
+Cambodia,2021-05-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/197291-2021-05-10-16-04-36.html,2942768,1825488,1117280
+Cambodia,2021-05-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/197406-2021-05-11-15-08-16.html,3001566,1877840,1123726
+Cambodia,2021-05-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4022782131094196,3069337,1939773,1129564
+Cambodia,2021-05-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4025947244111018,3132686,1996775,1135911
+Cambodia,2021-05-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4029016473804095,3180915,2040255,1140660
+Cambodia,2021-05-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4031968816842194,3214835,2066813,1148022
+Cambodia,2021-05-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4035445909827818,3267516,2082282,1185234
+Cambodia,2021-05-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4038028022902940,3333079,2100151,1232928
+Cambodia,2021-05-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/198232-2021-05-18-15-42-47.html,3416265,2133116,1283149
+Cambodia,2021-05-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4045323628840046,3503884,2168239,1335645
+Cambodia,2021-05-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4048288425210233,3590729,2198547,1392182
+Cambodia,2021-05-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4051285768243832,3673639,2226446,1447193
+Cambodia,2021-05-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/198725-2021-05-22-14-23-20.html,3767116,2253044,1514072
+Cambodia,2021-05-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4057416140964128,3840027,2269860,1570167
+Cambodia,2021-05-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/199007-2021-05-24-14-39-40.html,3927869,2280875,1646994
+Cambodia,2021-05-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/199140-2021-05-25-15-24-06.html,4005373,2306822,1698551
+Cambodia,2021-05-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4066673706705038,4113384,2362101,1751283
+Cambodia,2021-05-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4069501606422248,4219733,2418285,1801448
+Cambodia,2021-05-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/199520-2021-05-28-15-39-13.html,4329034,2464835,1864199
+Cambodia,2021-05-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/199599-2021-05-29-15-01-46.html,4438196,2514790,1923406
+Cambodia,2021-05-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/199695-2021-05-30-14-52-11.html,4528839,2567493,1961346
+Cambodia,2021-05-31,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/199820-2021-05-31-14-48-08.html,4613562,2625338,1988224
+Cambodia,2021-06-01,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4084480864924322,4671201,2648859,2022342
+Cambodia,2021-06-02,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/200184-2021-06-02-17-51-42.html,4723944,2665822,2058122
+Cambodia,2021-06-03,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/200315-2021-06-03-14-30-46.html,4782587,2688014,2094573
+Cambodia,2021-06-04,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/200464-2021-06-04-14-40-29.html,4839260,2710359,2128901
+Cambodia,2021-06-05,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/200559-2021-06-05-14-53-20.html,4894315,2735199,2159116
+Cambodia,2021-06-06,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/200617-2021-06-06-14-28-14.html,4938642,2754341,2184301
+Cambodia,2021-06-07,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/200731-2021-06-07-14-56-09.html,4969942,2766198,2203744
+Cambodia,2021-06-08,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/200858-2021-06-08-15-52-10.html,5005581,2770433,2235148
+Cambodia,2021-06-09,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/200966-2021-06-09-15-48-48.html,5050186,2770611,2279575
+Cambodia,2021-06-10,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/201080-2021-06-10-14-30-38.html,5128310,2794894,2333416
+Cambodia,2021-06-11,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/201196-2021-06-11-14-22-23.html,5223954,2836482,2387472
+Cambodia,2021-06-12,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/201290-2021-06-12-13-45-28.html,5325094,2885619,2439475
+Cambodia,2021-06-13,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/201366-2021-06-13-13-24-33.html,5428433,2939543,2488890
+Cambodia,2021-06-14,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",http://www.freshnewsasia.com/index.php/en/localnews/201532-2021-06-14-15-22-07.html,5537538,3000264,2537274
+Cambodia,2021-06-15,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4123329777706097,5667915,3076775,2591140
+Cambodia,2021-06-16,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4126038557435219,5762050,3138584,2623466
+Cambodia,2021-06-17,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4128738287165246,5839250,3199642,2639608
+Cambodia,2021-06-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4131486170223791,5924894,3257857,2667037
+Cambodia,2021-06-19,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4134095863296155,6012998,3310660,2702329
+Cambodia,2021-06-20,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4136652739707134,6098584,3366207,2732377
+Cambodia,2021-06-21,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4139366752769066,6171269,3416075,2755194
+Cambodia,2021-06-22,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4142071015831973,6275739,3517943,2757796
+Cambodia,2021-06-23,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/posts/4144976138874794,6378584,3619420,2759164
+Cambodia,2021-06-24,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/4147627818609626/,6478528,3715751,2762777
+Cambodia,2021-06-25,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/4150370128335395/,6616277,3803169,2813108
+Cambodia,2021-06-26,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/4153241428048265/,6729736,3886534,2843202
+Cambodia,2021-06-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/4155982304440844/,6836447,3955033,2881414
+Cambodia,2021-06-28,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/4158614887510919/,6957895,4019751,2938144
+Cambodia,2021-06-29,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/4161365183902556/,7093483,4100104,2993379
+Cambodia,2021-06-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",https://www.facebook.com/MinistryofHealthofCambodia/photos/a.930887636950343/4164231723615902/,7251656,4202751,3048905

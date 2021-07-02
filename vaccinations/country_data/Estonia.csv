@@ -1,83 +1,188 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Estonia,2020-12-28,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-28-detsember-oopaevaga-lisandus-416-positiivset-testi,207,,
-Estonia,2020-12-29,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-29-detsember-oopaevaga-lisandus-478-positiivset-testi,516,,
-Estonia,2020-12-30,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-30-detsember-oopaevaga-lisandus-968-positiivset-testi,884,,
-Estonia,2020-12-31,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-31-detsember-oopaevaga-lisandus-738-positiivset-testi,1907,,
-Estonia,2021-01-01,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-1-jaanuar-oopaevaga-lisandus-417-positiivset-testi,2487,,
-Estonia,2021-01-03,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-3-jaanuar-oopaevaga-lisandus-342-positiivset-testi,2517,,
-Estonia,2021-01-04,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-4-jaanuar-oopaevaga-lisandus-390-positiivset-testi,2535,,
-Estonia,2021-01-05,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-5-jaanuar-oopaevaga-lisandus-429-positiivset-testi,3188,,
-Estonia,2021-01-06,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-6-jaanuar-oopaevaga-lisandus-723-positiivset-testi,5009,,
-Estonia,2021-01-07,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-7-jaanuar-oopaevaga-lisandus-1104-positiivset-testi,6632,,
-Estonia,2021-01-08,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-8-jaanuar-oopaevaga-lisandus-788-positiivset-testi,7973,,
-Estonia,2021-01-09,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-9-jaanuar-oopaevaga-lisandus-556-positiivset-testi,10197,,
-Estonia,2021-01-10,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-10-jaanuar-oopaevaga-lisandus-429-positiivset-testi,10749,,
-Estonia,2021-01-11,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-11-jaanuar-oopaevaga-lisandus-290-positiivset-testi,10972,,
-Estonia,2021-01-12,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-12-jaanuar-oopaevaga-lisandus-335-positiivset-testi,11896,,
-Estonia,2021-01-13,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-13-jaanuar-oopaevaga-lisandus-855-positiivset-testi,13481,,
-Estonia,2021-01-14,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-14-jaanuar-oopaevaga-lisandus-632-positiivset-testi,14879,,
-Estonia,2021-01-15,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-15-jaanuar-oopaevaga-lisandus-476-positiivset-testi,16677,,
-Estonia,2021-01-16,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-16-jaanuar-oopaevaga-lisandus-618-positiivset-testi,17959,,
-Estonia,2021-01-17,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-17-jaanuar-oopaevaga-lisandus-390-positiivset-testi,18179,,
-Estonia,2021-01-18,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-18-jaanuar-oopaevaga-lisandus-265-positiivset-testi,18275,,
-Estonia,2021-01-19,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-19-jaanuar-oopaevaga-lisandus-600-positiivset-testi,19315,,
-Estonia,2021-01-20,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-20-jaanuar-oopaevaga-lisandus-603-positiivset-testi,20478,,
-Estonia,2021-01-21,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-21-jaanuar-oopaevaga-lisandus-669-positiivset-testi,21985,,
-Estonia,2021-01-22,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-22-jaanuar-oopaevaga-lisandus-490-positiivset-testi,24196,,
-Estonia,2021-01-23,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-23-jaanuar-oopaevaga-lisandus-487-positiivset-testi,25704,,
-Estonia,2021-01-24,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-24-jaanuar-oopaevaga-lisandus-532-positiivset-testi,25964,,
-Estonia,2021-01-25,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-25-jaanuar-oopaevaga-lisandus-259-positiivset-testi,26126,,
-Estonia,2021-01-26,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-26-jaanuar-oopaevaga-lisandus-357-positiivset-testi,27180,,
-Estonia,2021-01-27,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-27-jaanuar-oopaevaga-lisandus-636-positiivset-testi,29594,,
-Estonia,2021-01-28,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-28-jaanuar-oopaevaga-lisandus-690-positiivset-testi,31629,25415,6214
-Estonia,2021-01-29,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-29-jaanuar-oopaevaga-lisandus-691-positiivset-testi,34019,26412,7607
-Estonia,2021-01-30,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-30-jaanuar-oopaevaga-lisandus-405-positiivset-testi,37230,27633,9597
-Estonia,2021-01-31,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-31-jaanuar-oopaevaga-lisandus-468-positiivset-testi,38055,27900,10155
-Estonia,2021-02-01,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-1-veebruar-oopaevaga-lisandus-367-positiivset-testi,38594,28186,10408
-Estonia,2021-02-02,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-2-veebruar-oopaevaga-lisandus-467-positiivset-testi,40217,28907,11310
-Estonia,2021-02-03,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-3-veebruar-oopaevaga-lisandus-688-positiivset-testi,43000,30158,12842
-Estonia,2021-02-04,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-4-veebruar-oopaevaga-lisandus-673-positiivset-testi,46194,31864,14330
-Estonia,2021-02-05,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-5-veebruar-oopaevaga-lisandus-596-positiivset-testi,49798,33927,15871
-Estonia,2021-02-06,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-6-veebruar-oopaevaga-lisandus-589-positiivset-testi,52868,35492,17376
-Estonia,2021-02-07,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-7-veebruar-oopaevaga-lisandus-417-positiivset-testi,53424,35905,17519
-Estonia,2021-02-08,Pfizer/BioNTech,https://www.terviseamet.ee/et/uudised/covid-19-blogi-8-veebruar-oopaevaga-lisandus-339-positiivset-testi,53481,35917,17564
-Estonia,2021-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-10-veebruar-oopaevaga-lisandus-798-positiivset-testi,58261,39147,19114
-Estonia,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-11-veebruar-oopaevaga-lisandus-677-positiivset-testi,61757,41731,20026
-Estonia,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-12-veebruar-oopaevaga-lisandus-717-positiivset-testi,65798,44486,21312
-Estonia,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-13-veebruar-oopaevaga-lisandus-760-positiivset-testi,68146,46020,22126
-Estonia,2021-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-14-veebruar-oopaevaga-lisandus-667-positiivset-testi,68436,46152,22284
-Estonia,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-15-veebruar-oopaevaga-lisandus-412-positiivset-testi,68497,46154,22343
-Estonia,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-16-veebruar-oopaevaga-lisandus-622-positiivset-testi,69313,46740,22573
-Estonia,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-17-veebruar-oopaevaga-lisandus-811-positiivset-testi,71722,48573,23149
-Estonia,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-18-veebruar-oopaevaga-lisandus-996-positiivset-testi,76075,52263,23812
-Estonia,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-19-veebruar-oopaevaga-lisandus-952-positiivset-testi,82370,57543,24827
-Estonia,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-20-veebruar-oopaevaga-lisandus-787-positiivset-testi,87147,61316,25831
-Estonia,2021-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-21-veebruar-oopaevaga-lisandus-583-positiivset-testi,87957,61904,26053
-Estonia,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-22-veebruar-oopaevaga-lisandus-829-positiivset-testi,88790,62415,26375
-Estonia,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-23-veebruar-oopaevaga-lisandus-962-positiivset-testi,91785,64508,27277
-Estonia,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-24-veebruar-oopaevaga-lisandus-1069-positiivset-testi,96515,68297,28218
-Estonia,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-25-veebruar-oopaevaga-lisandus-1154-positiivset-testi,96980,68629,28351
-Estonia,2021-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-27-veebruar-oopaevaga-lisandus-1570-positiivset-testi,111039,77536,33503
-Estonia,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-1-marts-oopaevaga-lisandus-1028-positiivset-testi,112809,78759,34050
-Estonia,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-2-marts-oopaevaga-lisandus-1113-positiivset-testi,116276,81209,35067
-Estonia,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-4-marts-oopaevaga-lisandus-1420-positiivset-testi,126848,87086,39762
-Estonia,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-5-marts-oopaevaga-lisandus-1536-positiivset-testi-manustati-7656,134504,92270,42234
-Estonia,2021-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-7-marts-oopaevaga-lisandus-1321-positiivset-testi,145394,101452,43942
-Estonia,2021-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-9-marts-oopaevaga-lisandus-1308-positiivset-testi,150080,105845,44235
-Estonia,2021-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-10-marts-oopaevaga-lisandus-1484-positiivset-testi,155175,109865,45310
-Estonia,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-11-marts-oopaevaga-lisandus-1957-positiivset-testi,161693,113898,47795
-Estonia,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-13-marts-oopaevaga-lisandus-1586-positiivset-testi,180400,127829,52571
-Estonia,2021-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-14-marts-oopaevaga-lisandus-935-positiivset-testi,185912,133263,52649
-Estonia,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-15-marts-oopaevaga-lisandus-1281-positiivset-testi,191207,138543,52664
-Estonia,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-16-marts-oopaevaga-lisandus-1463-positiivset-testi,194844,141912,52932
-Estonia,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-17-marts-oopaevaga-lisandus-1784-positiivset-testi,199394,145665,53729
-Estonia,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-18-marts-oopaevaga-lisandus-1700-positiivset-testi,204831,150844,53987
-Estonia,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-19-marts-oopaevaga-lisandus-1751-positiivset-testi,212261,157489,54772
-Estonia,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-20-marts-oopaevaga-lisandus-1250-positiivset-testi,220882,163936,56946
-Estonia,2021-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-21-marts-oopaevaga-lisandus-1375-positiivset-testi,223166,166163,57003
-Estonia,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-22-marts-oopaevaga-lisandus-993-positiivset-testi,224511,167488,57023
-Estonia,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-23-marts-oopaevaga-lisandus-1064-positiivset-testi,226994,169435,57559
-Estonia,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-24-marts-oopaevaga-lisandus-1553-positiivset-testi,229921,172183,57738
-Estonia,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-25-marts-oopaevaga-lisandus-1429-positiivset-testi,235600,177457,58143
-Estonia,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-27-marts-oopaevaga-lisandus-1151-positiivset-testi,252278,191723,60555
-Estonia,2021-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.terviseamet.ee/et/uudised/covid-19-blogi-28-marts-oopaevaga-lisandus-892-positiivset-testi,254683,193870,60813
+Estonia,2020-12-27,Pfizer/BioNTech,https://opendata.digilugu.ee,191,191,0
+Estonia,2020-12-28,Pfizer/BioNTech,https://opendata.digilugu.ee,509,509,0
+Estonia,2020-12-29,Pfizer/BioNTech,https://opendata.digilugu.ee,876,876,0
+Estonia,2020-12-30,Pfizer/BioNTech,https://opendata.digilugu.ee,1890,1890,0
+Estonia,2020-12-31,Pfizer/BioNTech,https://opendata.digilugu.ee,2476,2476,0
+Estonia,2021-01-01,Pfizer/BioNTech,https://opendata.digilugu.ee,2476,2476,0
+Estonia,2021-01-02,Pfizer/BioNTech,https://opendata.digilugu.ee,2506,2506,0
+Estonia,2021-01-03,Pfizer/BioNTech,https://opendata.digilugu.ee,2524,2524,0
+Estonia,2021-01-04,Pfizer/BioNTech,https://opendata.digilugu.ee,3166,3166,0
+Estonia,2021-01-05,Pfizer/BioNTech,https://opendata.digilugu.ee,4976,4976,0
+Estonia,2021-01-06,Pfizer/BioNTech,https://opendata.digilugu.ee,6587,6587,0
+Estonia,2021-01-07,Pfizer/BioNTech,https://opendata.digilugu.ee,7929,7929,0
+Estonia,2021-01-08,Pfizer/BioNTech,https://opendata.digilugu.ee,10144,10144,0
+Estonia,2021-01-09,Pfizer/BioNTech,https://opendata.digilugu.ee,10695,10695,0
+Estonia,2021-01-10,Pfizer/BioNTech,https://opendata.digilugu.ee,10918,10918,0
+Estonia,2021-01-11,Pfizer/BioNTech,https://opendata.digilugu.ee,11768,11767,1
+Estonia,2021-01-12,Pfizer/BioNTech,https://opendata.digilugu.ee,13348,13347,1
+Estonia,2021-01-13,Pfizer/BioNTech,https://opendata.digilugu.ee,14743,14742,1
+Estonia,2021-01-14,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,16523,16522,1
+Estonia,2021-01-15,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,17804,17803,1
+Estonia,2021-01-16,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,18024,18023,1
+Estonia,2021-01-17,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,18120,18053,67
+Estonia,2021-01-18,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,19154,18712,442
+Estonia,2021-01-19,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,20316,19471,845
+Estonia,2021-01-20,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,21799,20323,1476
+Estonia,2021-01-21,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,23981,21840,2141
+Estonia,2021-01-22,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,25485,23075,2410
+Estonia,2021-01-23,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,25743,23330,2413
+Estonia,2021-01-24,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,25904,23491,2413
+Estonia,2021-01-25,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,26966,23866,3100
+Estonia,2021-01-26,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,29360,24610,4750
+Estonia,2021-01-27,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,31495,25250,6245
+Estonia,2021-01-28,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,33968,26322,7646
+Estonia,2021-01-29,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,37176,27544,9632
+Estonia,2021-01-30,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,38007,27810,10197
+Estonia,2021-01-31,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,38545,28095,10450
+Estonia,2021-02-01,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,40154,28815,11339
+Estonia,2021-02-02,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,42925,30062,12863
+Estonia,2021-02-03,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,46121,31725,14396
+Estonia,2021-02-04,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,49722,33769,15953
+Estonia,2021-02-05,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,52786,35318,17468
+Estonia,2021-02-06,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,53339,35726,17613
+Estonia,2021-02-07,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,53396,35737,17659
+Estonia,2021-02-08,"Moderna, Pfizer/BioNTech",https://opendata.digilugu.ee,55021,36734,18287
+Estonia,2021-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,58167,39010,19157
+Estonia,2021-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,61665,41601,20064
+Estonia,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,65707,44357,21350
+Estonia,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,68042,45890,22152
+Estonia,2021-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,68333,46022,22311
+Estonia,2021-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,68394,46024,22370
+Estonia,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,69239,46642,22597
+Estonia,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,71642,48472,23170
+Estonia,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,75972,52139,23833
+Estonia,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,82273,57425,24848
+Estonia,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,87048,61200,25848
+Estonia,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,87858,61788,26070
+Estonia,2021-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,88691,62300,26391
+Estonia,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,91684,64394,27290
+Estonia,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,96389,68180,28209
+Estonia,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,96852,68511,28341
+Estonia,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,103390,72238,31152
+Estonia,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,110930,77420,33510
+Estonia,2021-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,112388,78455,33933
+Estonia,2021-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,112698,78639,34059
+Estonia,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,116164,81086,35078
+Estonia,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,121433,84053,37380
+Estonia,2021-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,126738,86963,39775
+Estonia,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,134369,92103,42266
+Estonia,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,141466,97679,43787
+Estonia,2021-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,145215,101266,43949
+Estonia,2021-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,146213,102260,43953
+Estonia,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,149881,105681,44200
+Estonia,2021-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,154988,109717,45271
+Estonia,2021-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,161439,113715,47724
+Estonia,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,172547,121892,50655
+Estonia,2021-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,180208,127625,52583
+Estonia,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,185712,133050,52662
+Estonia,2021-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,190998,138321,52677
+Estonia,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,194620,141676,52944
+Estonia,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,199164,145421,53743
+Estonia,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,204591,150592,53999
+Estonia,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,212015,157229,54786
+Estonia,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,220635,163678,56957
+Estonia,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,222914,165900,57014
+Estonia,2021-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,224256,167222,57034
+Estonia,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,226744,169173,57571
+Estonia,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,229670,171918,57752
+Estonia,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,235321,177164,58157
+Estonia,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,245358,185648,59710
+Estonia,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,252032,191458,60574
+Estonia,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,254421,193588,60833
+Estonia,2021-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,254956,194075,60881
+Estonia,2021-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,257242,196020,61222
+Estonia,2021-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,260807,198608,62199
+Estonia,2021-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,266784,203069,63715
+Estonia,2021-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,278730,211065,67665
+Estonia,2021-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,282663,214617,68046
+Estonia,2021-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,291086,222416,68670
+Estonia,2021-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,295234,226425,68809
+Estonia,2021-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,298732,228932,69800
+Estonia,2021-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,302349,231412,70937
+Estonia,2021-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,308368,236312,72056
+Estonia,2021-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,321274,247949,73325
+Estonia,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,331913,257524,74389
+Estonia,2021-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,333541,258748,74793
+Estonia,2021-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,333871,259033,74838
+Estonia,2021-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,335789,260503,75286
+Estonia,2021-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,338648,262785,75863
+Estonia,2021-04-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,345872,268136,77736
+Estonia,2021-04-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,358392,277451,80941
+Estonia,2021-04-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,369919,285676,84243
+Estonia,2021-04-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,371983,287002,84981
+Estonia,2021-04-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,373390,287977,85413
+Estonia,2021-04-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,376006,289220,86786
+Estonia,2021-04-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,380230,291159,89071
+Estonia,2021-04-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,385330,295445,89885
+Estonia,2021-04-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,396921,303655,93266
+Estonia,2021-04-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,405835,309356,96479
+Estonia,2021-04-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,408906,310223,98683
+Estonia,2021-04-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,411298,311431,99867
+Estonia,2021-04-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,414530,312884,101646
+Estonia,2021-04-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,421370,316368,105002
+Estonia,2021-04-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,432587,323018,109569
+Estonia,2021-04-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,447367,331239,116128
+Estonia,2021-04-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,459232,336865,122367
+Estonia,2021-05-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,462247,337816,124431
+Estonia,2021-05-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,464689,339376,125313
+Estonia,2021-05-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,470439,341706,128733
+Estonia,2021-05-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,479143,346671,132472
+Estonia,2021-05-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,492246,353945,138301
+Estonia,2021-05-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,509828,362569,147259
+Estonia,2021-05-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,523602,368858,154744
+Estonia,2021-05-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,529113,371927,157186
+Estonia,2021-05-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,532308,373094,159214
+Estonia,2021-05-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,536625,375289,161336
+Estonia,2021-05-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,542835,379031,163804
+Estonia,2021-05-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,552951,385039,167912
+Estonia,2021-05-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,565894,390866,175028
+Estonia,2021-05-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,574676,396991,177685
+Estonia,2021-05-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,578128,400123,178005
+Estonia,2021-05-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,579087,401055,178032
+Estonia,2021-05-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,586029,406946,179083
+Estonia,2021-05-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,593945,412807,181138
+Estonia,2021-05-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,602935,418038,184897
+Estonia,2021-05-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,617653,423373,194280
+Estonia,2021-05-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,631950,430000,201950
+Estonia,2021-05-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,636809,434102,202707
+Estonia,2021-05-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,640538,437434,203104
+Estonia,2021-05-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,646039,441818,204221
+Estonia,2021-05-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,653059,446801,206258
+Estonia,2021-05-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,664471,452592,211879
+Estonia,2021-05-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,680643,458339,222304
+Estonia,2021-05-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,693135,463095,230040
+Estonia,2021-05-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,698347,466933,231414
+Estonia,2021-05-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,702884,470465,232419
+Estonia,2021-05-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,706599,472768,233831
+Estonia,2021-06-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,715175,478521,236654
+Estonia,2021-06-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,726162,484294,241868
+Estonia,2021-06-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,740173,490419,249754
+Estonia,2021-06-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,751818,495455,256363
+Estonia,2021-06-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,757021,498909,258112
+Estonia,2021-06-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,762240,500529,261711
+Estonia,2021-06-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,768526,503510,265016
+Estonia,2021-06-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,778117,507746,270371
+Estonia,2021-06-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,791594,512099,279495
+Estonia,2021-06-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,806537,516433,290104
+Estonia,2021-06-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,818428,519867,298561
+Estonia,2021-06-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,825266,522076,303190
+Estonia,2021-06-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,829844,523768,306076
+Estonia,2021-06-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,837611,526936,310675
+Estonia,2021-06-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,848174,530387,317787
+Estonia,2021-06-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,861418,533317,328101
+Estonia,2021-06-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,875549,536235,339314
+Estonia,2021-06-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,889591,540720,348871
+Estonia,2021-06-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,895857,542349,353508
+Estonia,2021-06-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,899906,544127,355779
+Estonia,2021-06-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,908518,547031,361487
+Estonia,2021-06-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,914392,548868,365524
+Estonia,2021-06-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,914518,548871,365647
+Estonia,2021-06-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,914694,548907,365787
+Estonia,2021-06-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,922340,550926,371414
+Estonia,2021-06-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,926801,552078,374723
+Estonia,2021-06-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,931229,553302,377927
+Estonia,2021-06-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,938726,555239,383487
+Estonia,2021-06-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,947146,557430,389716
+Estonia,2021-06-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,956009,559866,396143
+Estonia,2021-07-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://opendata.digilugu.ee,963401,562265,401136

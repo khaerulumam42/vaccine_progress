@@ -1,48 +1,143 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Peru,2021-02-09,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,3837,3837,0
-Peru,2021-02-10,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,20413,20413,0
-Peru,2021-02-11,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,54202,54202,0
-Peru,2021-02-12,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,86575,86575,0
-Peru,2021-02-13,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,105509,105509,0
-Peru,2021-02-14,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,110700,110700,0
-Peru,2021-02-15,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,122101,122101,0
-Peru,2021-02-16,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,129243,129243,0
-Peru,2021-02-17,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,132678,132678,0
-Peru,2021-02-18,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,139511,139511,0
-Peru,2021-02-19,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,168773,168773,0
-Peru,2021-02-20,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,194225,194225,0
-Peru,2021-02-21,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,198457,198457,0
-Peru,2021-02-22,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,225819,225819,0
-Peru,2021-02-23,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,252091,252091,0
-Peru,2021-02-24,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,274037,274037,0
-Peru,2021-02-25,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,289246,289246,0
-Peru,2021-02-26,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,303906,303906,0
-Peru,2021-02-27,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,310508,310508,0
-Peru,2021-02-28,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,311498,311498,0
-Peru,2021-03-01,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,320223,320223,0
-Peru,2021-03-02,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,328095,326471,1624
-Peru,2021-03-03,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,344886,332454,12432
-Peru,2021-03-04,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,373625,336100,37525
-Peru,2021-03-05,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,406168,340629,65539
-Peru,2021-03-06,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,422048,343219,78829
-Peru,2021-03-07,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,423949,343347,80602
-Peru,2021-03-08,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,447166,356255,90911
-Peru,2021-03-09,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,467179,370542,96637
-Peru,2021-03-10,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,482149,381427,100722
-Peru,2021-03-11,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,493833,388562,105271
-Peru,2021-03-12,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,515224,395753,119471
-Peru,2021-03-13,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,543901,400552,143349
-Peru,2021-03-14,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,546915,401063,145852
-Peru,2021-03-15,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,579598,410676,168922
-Peru,2021-03-16,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,608418,419483,188935
-Peru,2021-03-17,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,641766,434892,206874
-Peru,2021-03-18,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,679330,459047,220283
-Peru,2021-03-19,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,716622,483212,233410
-Peru,2021-03-20,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,736764,499072,237692
-Peru,2021-03-21,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,738099,499713,238386
-Peru,2021-03-22,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,750950,506264,244686
-Peru,2021-03-23,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,765166,514915,250251
-Peru,2021-03-24,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,777769,523433,254336
-Peru,2021-03-25,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,787692,530339,257353
-Peru,2021-03-26,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,797879,538026,259853
-Peru,2021-03-27,Sinopharm/Beijing,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,801867,541127,260740
+Peru,2021-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,3842,3842,0
+Peru,2021-02-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,20433,20433,0
+Peru,2021-02-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,54566,54566,0
+Peru,2021-02-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,86886,86886,0
+Peru,2021-02-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,105713,105713,0
+Peru,2021-02-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,110882,110882,0
+Peru,2021-02-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,122395,122395,0
+Peru,2021-02-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,129839,129839,0
+Peru,2021-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,133758,133758,0
+Peru,2021-02-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,141133,141133,0
+Peru,2021-02-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,171529,171529,0
+Peru,2021-02-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,197539,197539,0
+Peru,2021-02-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,202069,202069,0
+Peru,2021-02-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,230993,230993,0
+Peru,2021-02-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,257848,257848,0
+Peru,2021-02-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,280220,280220,0
+Peru,2021-02-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,295830,295830,0
+Peru,2021-02-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,311562,311562,0
+Peru,2021-02-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,318480,318480,0
+Peru,2021-02-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,319475,319475,0
+Peru,2021-03-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,328770,328770,0
+Peru,2021-03-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,337748,335661,2087
+Peru,2021-03-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,356345,342218,14127
+Peru,2021-03-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,387969,346003,41966
+Peru,2021-03-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,424284,350687,73597
+Peru,2021-03-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,443360,353646,89714
+Peru,2021-03-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,445662,353786,91876
+Peru,2021-03-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,476180,372028,104152
+Peru,2021-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,502885,391641,111244
+Peru,2021-03-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,520555,404370,116185
+Peru,2021-03-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,534557,412740,121817
+Peru,2021-03-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,560556,421499,139057
+Peru,2021-03-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,594804,427633,167171
+Peru,2021-03-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,598144,428273,169871
+Peru,2021-03-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,643834,446314,197520
+Peru,2021-03-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,689673,468561,221112
+Peru,2021-03-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,735029,490960,244069
+Peru,2021-03-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,777172,516979,260193
+Peru,2021-03-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,818357,542580,275777
+Peru,2021-03-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,842835,560668,282167
+Peru,2021-03-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,844535,561342,283193
+Peru,2021-03-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,861598,570000,291598
+Peru,2021-03-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,886014,585458,300556
+Peru,2021-03-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,907776,600077,307699
+Peru,2021-03-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,925385,612951,312434
+Peru,2021-03-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,946458,629440,317018
+Peru,2021-03-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,960550,640668,319882
+Peru,2021-03-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,962822,642742,320080
+Peru,2021-03-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,980528,647667,332861
+Peru,2021-03-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1006650,652222,354428
+Peru,2021-03-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1031422,659793,371629
+Peru,2021-04-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1037822,662068,375754
+Peru,2021-04-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1041618,663091,378527
+Peru,2021-04-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1050182,665593,384589
+Peru,2021-04-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1050869,665825,385044
+Peru,2021-04-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1066992,671910,395082
+Peru,2021-04-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1095735,683382,412353
+Peru,2021-04-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1126052,697038,429014
+Peru,2021-04-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1171082,713727,457355
+Peru,2021-04-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1205303,729995,475308
+Peru,2021-04-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1218020,734210,483810
+Peru,2021-04-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1218106,734230,483876
+Peru,2021-04-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1231866,734998,496868
+Peru,2021-04-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1253518,736896,516622
+Peru,2021-04-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1276558,739614,536944
+Peru,2021-04-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1299644,741463,558181
+Peru,2021-04-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1340924,761144,579780
+Peru,2021-04-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1384822,790744,594078
+Peru,2021-04-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1415752,818595,597157
+Peru,2021-04-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1426559,825475,601084
+Peru,2021-04-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1442459,836682,605777
+Peru,2021-04-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1462080,846216,615864
+Peru,2021-04-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1472679,854425,618254
+Peru,2021-04-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1501533,880774,620759
+Peru,2021-04-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1531419,908394,623025
+Peru,2021-04-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1547026,923915,623111
+Peru,2021-04-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1566622,939274,627348
+Peru,2021-04-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1596228,958914,637314
+Peru,2021-04-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1647149,998308,648841
+Peru,2021-04-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1704247,1042986,661261
+Peru,2021-04-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1802168,1124033,678135
+Peru,2021-05-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1867792,1186738,681054
+Peru,2021-05-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1916390,1234280,682110
+Peru,2021-05-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,1980043,1293148,686895
+Peru,2021-05-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2004179,1315850,688329
+Peru,2021-05-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2028906,1336155,692751
+Peru,2021-05-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2069802,1375179,694623
+Peru,2021-05-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2117704,1408627,709077
+Peru,2021-05-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2200946,1469314,731632
+Peru,2021-05-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2259087,1502208,756879
+Peru,2021-05-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2315298,1549503,765795
+Peru,2021-05-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2369912,1592187,777725
+Peru,2021-05-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2438249,1649788,788461
+Peru,2021-05-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2519210,1723101,796109
+Peru,2021-05-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2626797,1810911,815886
+Peru,2021-05-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2700842,1863683,837159
+Peru,2021-05-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2738685,1887058,851627
+Peru,2021-05-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2797797,1937972,859825
+Peru,2021-05-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2866966,1997370,869596
+Peru,2021-05-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,2947211,2057566,889645
+Peru,2021-05-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,3033662,2127786,905876
+Peru,2021-05-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,3194498,2236188,958310
+Peru,2021-05-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,3324487,2315244,1009243
+Peru,2021-05-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,3410011,2359638,1050373
+Peru,2021-05-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,3529756,2428432,1101324
+Peru,2021-05-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,3629182,2505098,1124084
+Peru,2021-05-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,3724454,2587932,1136522
+Peru,2021-05-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,3841142,2677883,1163259
+Peru,2021-05-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,3992290,2801633,1190657
+Peru,2021-05-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,4122351,2876526,1245825
+Peru,2021-05-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,4186279,2910087,1276192
+Peru,2021-05-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,4296995,2978205,1318790
+Peru,2021-06-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,4408360,3052635,1355725
+Peru,2021-06-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,4521321,3130107,1391214
+Peru,2021-06-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,4585067,3167999,1417068
+Peru,2021-06-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,4621310,3183595,1437715
+Peru,2021-06-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,4641378,3190714,1450664
+Peru,2021-06-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,4642922,3192033,1450889
+Peru,2021-06-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,4673837,3199875,1473962
+Peru,2021-06-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,4890256,3300228,1590028
+Peru,2021-06-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,5095207,3413933,1681274
+Peru,2021-06-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,5322610,3535394,1787216
+Peru,2021-06-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,5536983,3620468,1916515
+Peru,2021-06-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,5691711,3691578,2000133
+Peru,2021-06-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,5768525,3726240,2042285
+Peru,2021-06-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,5879800,3762121,2117679
+Peru,2021-06-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,6007417,3803376,2204041
+Peru,2021-06-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,6118535,3840750,2277785
+Peru,2021-06-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,6256352,3879685,2376667
+Peru,2021-06-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,6424566,3913971,2510595
+Peru,2021-06-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,6534957,3935560,2599397
+Peru,2021-06-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,6567288,3941843,2625445
+Peru,2021-06-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,6670771,3983340,2687431
+Peru,2021-06-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,6805920,4028022,2777898
+Peru,2021-06-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,6926255,4066392,2859863
+Peru,2021-06-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,7006415,4107156,2899259
+Peru,2021-06-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,7119368,4188327,2931041
+Peru,2021-06-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,7189445,4248058,2941387
+Peru,2021-06-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,7233297,4288295,2945002
+Peru,2021-06-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,7279614,4322638,2956976
+Peru,2021-06-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,7350139,4343955,3006184
+Peru,2021-06-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa,7441097,4386208,3054889

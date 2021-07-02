@@ -75,3 +75,11 @@ In our data:
 * The total number of doses administered (`total_vaccinations`) will be equal to `4` (2 + 1 + 1);
 * The total number of people vaccinated (`people_vaccinated`) will be equal to `3` (Dina, Joel, Tommy);
 * The total number of people fully vaccinated (`people_fully_vaccinated`) will be equal to `1` (Dina).
+
+
+## License
+
+All visualizations, data, and code produced by _Our World in Data_ are completely open access under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.
+
+In the case of our vaccination dataset, please give the following citation:
+> Mathieu, E., Ritchie, H., Ortiz-Ospina, E. _et al._ A global database of COVID-19 vaccinations. _Nat Hum Behav_ (2021). [https://doi.org/10.1038/s41562-021-01122-8](https://doi.org/10.1038/s41562-021-01122-8)

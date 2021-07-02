@@ -1,96 +1,189 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
 Chile,2020-12-24,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,420,420,0
 Chile,2020-12-25,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,5198,5198,0
-Chile,2020-12-26,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8338,8338,0
-Chile,2020-12-27,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8649,8649,0
-Chile,2020-12-28,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8649,8649,0
-Chile,2020-12-29,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8649,8649,0
-Chile,2020-12-30,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8649,8649,0
-Chile,2020-12-31,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8649,8649,0
-Chile,2021-01-01,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8649,8649,0
-Chile,2021-01-02,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8649,8649,0
-Chile,2021-01-03,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8649,8649,0
-Chile,2021-01-04,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,9054,9054,0
-Chile,2021-01-05,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10497,10497,0
-Chile,2021-01-06,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10702,10702,0
-Chile,2021-01-07,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10702,10702,0
-Chile,2021-01-08,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10702,10702,0
-Chile,2021-01-09,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10702,10702,0
-Chile,2021-01-10,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10702,10702,0
-Chile,2021-01-11,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10702,10702,0
-Chile,2021-01-12,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10702,10702,0
-Chile,2021-01-13,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,11732,10703,1029
-Chile,2021-01-14,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,18646,12821,5825
-Chile,2021-01-15,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,22075,13778,8297
-Chile,2021-01-16,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,22165,13801,8364
-Chile,2021-01-17,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,22165,13801,8364
-Chile,2021-01-18,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,33210,24846,8364
-Chile,2021-01-19,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,52567,44201,8366
-Chile,2021-01-20,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,61876,53510,8366
-Chile,2021-01-21,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,64938,56572,8366
-Chile,2021-01-22,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,65350,56984,8366
-Chile,2021-01-23,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,65350,56984,8366
-Chile,2021-01-24,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,65350,56984,8366
-Chile,2021-01-25,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,66767,57001,9766
-Chile,2021-01-26,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67383,57022,10361
-Chile,2021-01-27,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67418,57023,10395
-Chile,2021-01-28,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67418,57023,10395
-Chile,2021-01-29,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67423,57023,10400
-Chile,2021-01-30,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67423,57023,10400
-Chile,2021-01-31,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67423,57023,10400
-Chile,2021-02-01,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67423,57023,10400
-Chile,2021-02-02,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,80617,70211,10406
-Chile,2021-02-03,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,250966,240560,10406
-Chile,2021-02-04,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,427120,414606,12514
-Chile,2021-02-05,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,596419,583235,13184
-Chile,2021-02-06,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,624297,611108,13189
-Chile,2021-02-07,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,632932,619743,13189
-Chile,2021-02-08,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,866127,841170,24957
-Chile,2021-02-09,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1127934,1083616,44318
-Chile,2021-02-10,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1408739,1356092,52647
-Chile,2021-02-11,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1662861,1607340,55521
-Chile,2021-02-12,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1892260,1836532,55728
-Chile,2021-02-13,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1921800,1866038,55762
-Chile,2021-02-14,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1926265,1870503,55762
-Chile,2021-02-15,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2192093,2136331,55762
-Chile,2021-02-16,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2412103,2356331,55772
-Chile,2021-02-17,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2600091,2544319,55772
-Chile,2021-02-18,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2755324,2699552,55772
-Chile,2021-02-19,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2897429,2841657,55772
-Chile,2021-02-20,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2907068,2851296,55772
-Chile,2021-02-21,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2908232,2852460,55772
-Chile,2021-02-22,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3016363,2960570,55793
-Chile,2021-02-23,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3110614,3054781,55833
-Chile,2021-02-24,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3196802,3140797,56005
-Chile,2021-02-25,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3282867,3226718,56149
-Chile,2021-02-26,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3361083,3304816,56267
-Chile,2021-02-27,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3371118,3314847,56271
-Chile,2021-02-28,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3371470,3315199,56271
-Chile,2021-03-01,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3508806,3452132,56674
-Chile,2021-03-02,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3680036,3610961,69075
-Chile,2021-03-03,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3991487,3768535,222952
-Chile,2021-03-04,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,4301446,3912987,388459
-Chile,2021-03-05,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,4598822,4049034,549788
-Chile,2021-03-06,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,4632650,4058755,573895
-Chile,2021-03-07,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,4640563,4059820,580743
-Chile,2021-03-08,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,4990441,4196065,794376
-Chile,2021-03-09,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,5366343,4334846,1031497
-Chile,2021-03-10,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,5766426,4470320,1296106
-Chile,2021-03-11,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,6182012,4641175,1540837
-Chile,2021-03-12,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,6555135,4791863,1763272
-Chile,2021-03-13,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,6605465,4816081,1789384
-Chile,2021-03-14,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,6611990,4818779,1793211
-Chile,2021-03-15,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,7041385,4976228,2065157
-Chile,2021-03-16,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,7450334,5142303,2308031
-Chile,2021-03-17,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,7816911,5293220,2523691
-Chile,2021-03-18,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8150325,5441227,2709098
-Chile,2021-03-19,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8444176,5580648,2863528
-Chile,2021-03-20,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8478321,5603786,2874535
-Chile,2021-03-21,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8482467,5606763,2875704
-Chile,2021-03-22,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8750284,5752837,2997447
-Chile,2021-03-23,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8990186,5902618,3087568
-Chile,2021-03-24,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,9207723,6055844,3151879
-Chile,2021-03-25,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,9418167,6211870,3206297
-Chile,2021-03-26,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,9631176,6375211,3255965
-Chile,2021-03-27,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,9646287,6387630,3258657
-Chile,2021-03-28,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,9646735,6387953,3258782
+Chile,2020-12-26,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8340,8340,0
+Chile,2020-12-27,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8651,8651,0
+Chile,2020-12-28,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8651,8651,0
+Chile,2020-12-29,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8651,8651,0
+Chile,2020-12-30,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8651,8651,0
+Chile,2020-12-31,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8651,8651,0
+Chile,2021-01-01,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8651,8651,0
+Chile,2021-01-02,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8651,8651,0
+Chile,2021-01-03,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,8651,8651,0
+Chile,2021-01-04,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,9056,9056,0
+Chile,2021-01-05,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10499,10499,0
+Chile,2021-01-06,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10704,10704,0
+Chile,2021-01-07,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10704,10704,0
+Chile,2021-01-08,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10704,10704,0
+Chile,2021-01-09,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10704,10704,0
+Chile,2021-01-10,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10704,10704,0
+Chile,2021-01-11,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10704,10704,0
+Chile,2021-01-12,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,10704,10704,0
+Chile,2021-01-13,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,11736,10705,1031
+Chile,2021-01-14,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,18650,12823,5827
+Chile,2021-01-15,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,22081,13780,8301
+Chile,2021-01-16,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,22171,13803,8368
+Chile,2021-01-17,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,22171,13803,8368
+Chile,2021-01-18,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,33210,24842,8368
+Chile,2021-01-19,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,52566,44197,8369
+Chile,2021-01-20,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,61871,53502,8369
+Chile,2021-01-21,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,64929,56560,8369
+Chile,2021-01-22,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,65341,56972,8369
+Chile,2021-01-23,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,65341,56972,8369
+Chile,2021-01-24,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,65341,56972,8369
+Chile,2021-01-25,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,66761,56989,9772
+Chile,2021-01-26,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67377,57010,10367
+Chile,2021-01-27,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67412,57011,10401
+Chile,2021-01-28,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67412,57011,10401
+Chile,2021-01-29,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67417,57011,10406
+Chile,2021-01-30,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67418,57012,10406
+Chile,2021-01-31,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67418,57012,10406
+Chile,2021-02-01,Pfizer/BioNTech,https://www.gob.cl/yomevacuno/,67418,57012,10406
+Chile,2021-02-02,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,80605,70193,10412
+Chile,2021-02-03,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,250968,240556,10412
+Chile,2021-02-04,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,427102,414582,12520
+Chile,2021-02-05,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,596465,583275,13190
+Chile,2021-02-06,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,624319,611124,13195
+Chile,2021-02-07,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,632955,619758,13197
+Chile,2021-02-08,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,866201,841233,24968
+Chile,2021-02-09,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1128050,1083704,44346
+Chile,2021-02-10,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1408812,1356126,52686
+Chile,2021-02-11,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1663050,1607480,55570
+Chile,2021-02-12,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1892497,1836717,55780
+Chile,2021-02-13,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1922049,1866236,55813
+Chile,2021-02-14,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,1926516,1870703,55813
+Chile,2021-02-15,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2192379,2136566,55813
+Chile,2021-02-16,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2412417,2356593,55824
+Chile,2021-02-17,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2600457,2544633,55824
+Chile,2021-02-18,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2755716,2699891,55825
+Chile,2021-02-19,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2897836,2842011,55825
+Chile,2021-02-20,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2907477,2851652,55825
+Chile,2021-02-21,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,2908639,2852814,55825
+Chile,2021-02-22,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3016771,2960924,55847
+Chile,2021-02-23,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3111019,3055132,55887
+Chile,2021-02-24,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3197293,3141233,56060
+Chile,2021-02-25,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3283364,3227160,56204
+Chile,2021-02-26,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3361735,3305413,56322
+Chile,2021-02-27,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3371718,3315392,56326
+Chile,2021-02-28,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3372073,3315747,56326
+Chile,2021-03-01,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3509575,3452840,56735
+Chile,2021-03-02,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3680856,3611707,69149
+Chile,2021-03-03,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,3992699,3769497,223202
+Chile,2021-03-04,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,4303184,3914177,389007
+Chile,2021-03-05,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,4600959,4050381,550578
+Chile,2021-03-06,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,4634738,4060028,574710
+Chile,2021-03-07,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,4642696,4061092,581604
+Chile,2021-03-08,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,4993227,4197637,795590
+Chile,2021-03-09,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,5369672,4336591,1033081
+Chile,2021-03-10,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,5770914,4472329,1298585
+Chile,2021-03-11,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,6187894,4643715,1544179
+Chile,2021-03-12,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,6562146,4794890,1767256
+Chile,2021-03-13,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,6612595,4819181,1793414
+Chile,2021-03-14,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,6619179,4821929,1797250
+Chile,2021-03-15,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,7049273,4979620,2069653
+Chile,2021-03-16,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,7459128,5145908,2313220
+Chile,2021-03-17,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,7825924,5296693,2529231
+Chile,2021-03-18,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8159964,5444636,2715328
+Chile,2021-03-19,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8450475,5580420,2870055
+Chile,2021-03-20,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8484604,5603564,2881040
+Chile,2021-03-21,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8488618,5606407,2882211
+Chile,2021-03-22,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8754460,5750309,3004151
+Chile,2021-03-23,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,8991933,5897226,3094707
+Chile,2021-03-24,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,9209486,6050002,3159484
+Chile,2021-03-25,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,9421091,6206410,3214681
+Chile,2021-03-26,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,9638052,6372287,3265765
+Chile,2021-03-27,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,9653694,6385181,3268513
+Chile,2021-03-28,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,9655086,6386150,3268936
+Chile,2021-03-29,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,9921288,6536876,3384412
+Chile,2021-03-30,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,10199074,6670082,3528992
+Chile,2021-03-31,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,10478737,6796596,3682141
+Chile,2021-04-01,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,10781493,6930895,3850598
+Chile,2021-04-02,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,10788520,6932743,3855777
+Chile,2021-04-03,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,10791741,6934619,3857122
+Chile,2021-04-04,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,10792858,6935275,3857583
+Chile,2021-04-05,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,11077070,7014746,4062324
+Chile,2021-04-06,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,11316098,7107250,4208848
+Chile,2021-04-07,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,11548721,7201596,4347125
+Chile,2021-04-08,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,11787623,7277832,4509791
+Chile,2021-04-09,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,12005954,7348184,4657770
+Chile,2021-04-10,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,12031877,7359279,4672598
+Chile,2021-04-11,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,12034319,7360366,4673953
+Chile,2021-04-12,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,12270584,7437970,4832614
+Chile,2021-04-13,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,12504901,7512393,4992508
+Chile,2021-04-14,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,12733147,7591112,5142035
+Chile,2021-04-15,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,12938654,7652670,5285984
+Chile,2021-04-16,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,13129078,7710462,5418616
+Chile,2021-04-17,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,13151236,7718282,5432954
+Chile,2021-04-18,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,13153852,7719142,5434710
+Chile,2021-04-19,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,13345986,7762835,5583151
+Chile,2021-04-20,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,13531807,7801819,5729988
+Chile,2021-04-21,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,13707672,7832823,5874849
+Chile,2021-04-22,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,13907086,7889024,6018062
+Chile,2021-04-23,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,14089933,7928758,6161175
+Chile,2021-04-24,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,14107526,7934466,6173060
+Chile,2021-04-25,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,14108565,7934817,6173748
+Chile,2021-04-26,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,14304276,7977698,6326578
+Chile,2021-04-27,"Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,14474633,8016531,6458102
+Chile,2021-04-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,14642929,8059894,6583035
+Chile,2021-04-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,14797656,8090609,6707047
+Chile,2021-04-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,14885020,8141225,6743795
+Chile,2021-05-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,14887286,8142289,6744997
+Chile,2021-05-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,14888745,8143086,6745659
+Chile,2021-05-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,15039982,8218939,6821043
+Chile,2021-05-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,15208856,8299823,6909033
+Chile,2021-05-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,15383227,8381185,7002042
+Chile,2021-05-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,15540744,8462599,7078145
+Chile,2021-05-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,15687927,8546405,7141522
+Chile,2021-05-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,15713368,8563705,7149663
+Chile,2021-05-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,15714771,8564665,7150106
+Chile,2021-05-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,15887802,8667796,7220006
+Chile,2021-05-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,16079543,8774968,7304575
+Chile,2021-05-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,16261953,8879554,7382399
+Chile,2021-05-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,16418756,8976390,7442366
+Chile,2021-05-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,16577353,9079318,7498035
+Chile,2021-05-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,16578798,9080360,7498438
+Chile,2021-05-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,16579233,9080625,7498608
+Chile,2021-05-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,16750336,9205051,7545285
+Chile,2021-05-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,16933220,9340632,7592588
+Chile,2021-05-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,17098916,9465358,7633558
+Chile,2021-05-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,17288721,9592081,7696640
+Chile,2021-05-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,17297789,9599800,7697989
+Chile,2021-05-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,17330483,9626239,7704244
+Chile,2021-05-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,17334765,9629934,7704831
+Chile,2021-05-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,17571120,9805448,7765672
+Chile,2021-05-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,17816923,9994745,7822178
+Chile,2021-05-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,18045234,10174915,7870319
+Chile,2021-05-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,18247553,10341192,7906361
+Chile,2021-05-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,18433167,10486195,7946972
+Chile,2021-05-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,18480393,10527672,7952721
+Chile,2021-05-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,18490464,10536775,7953689
+Chile,2021-05-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,18705309,10692229,8013153
+Chile,2021-06-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,18925551,10841219,8094771
+Chile,2021-06-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,19128915,10972957,8189695
+Chile,2021-06-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,19292028,11067680,8297681
+Chile,2021-06-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,19436555,11143990,8400205
+Chile,2021-06-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,19474133,11168554,8423125
+Chile,2021-06-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,19479118,11172319,8426135
+Chile,2021-06-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,19659816,11253249,8553349
+Chile,2021-06-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,19843587,11332978,8677453
+Chile,2021-06-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,20036133,11425565,8794090
+Chile,2021-06-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,20238445,11534547,8900536
+Chile,2021-06-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,20416528,11618740,8998474
+Chile,2021-06-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,20448941,11641791,9008228
+Chile,2021-06-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,20451003,11643260,9008870
+Chile,2021-06-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,20671968,11752131,9125155
+Chile,2021-06-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,20881729,11840529,9250185
+Chile,2021-06-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,21107005,11949626,9370277
+Chile,2021-06-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,21288766,12023271,9481421
+Chile,2021-06-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,21394779,12086729,9526321
+Chile,2021-06-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,21431132,12103540,9546140
+Chile,2021-06-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,21435041,12105344,9548257
+Chile,2021-06-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,21453942,12112714,9559889
+Chile,2021-06-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,21753894,12215817,9760465
+Chile,2021-06-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,21998038,12303577,9929238
+Chile,2021-06-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,22243873,12415208,10126923
+Chile,2021-06-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,22448312,12502943,10293464
+Chile,2021-06-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,22499618,12523782,10333986
+Chile,2021-06-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,22505116,12526058,10338459
+Chile,2021-06-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,22510458,12528502,10342576
+Chile,2021-06-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://www.gob.cl/yomevacuno/,22738493,12596361,10533144

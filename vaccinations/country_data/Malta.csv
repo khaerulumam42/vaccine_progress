@@ -1,28 +1,27 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Malta,2021-01-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,11705,11705,0
-Malta,2021-01-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,13002,13002,0
-Malta,2021-01-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,14276,14276,0
-Malta,2021-01-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,15316,15316,0
-Malta,2021-01-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,16531,16531,0
-Malta,2021-01-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,17767,17767,0
-Malta,2021-01-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,18930,18930,0
-Malta,2021-01-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,19981,18783,1198
-Malta,2021-01-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,21172,19709,1463
-Malta,2021-01-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,22371,20677,1694
-Malta,2021-01-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,23512,21417,2095
-Malta,2021-01-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,24680,22162,2518
-Malta,2021-01-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,25822,22853,2969
-Malta,2021-01-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,26847,23391,3456
-Malta,2021-01-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,27759,23811,3948
-Malta,2021-02-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,29002,24526,4476
-Malta,2021-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,30252,25361,4891
-Malta,2021-02-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,31633,26223,5410
-Malta,2021-02-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,33477,27020,6457
-Malta,2021-02-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,35676,28082,7594
-Malta,2021-02-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,37586,28837,8749
-Malta,2021-02-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,39257,29339,9918
-Malta,2021-02-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,41285,30235,11050
-Malta,2021-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,43337,31202,12135
+Malta,2021-01-17,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,11705,11705,
+Malta,2021-01-18,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,13002,13002,
+Malta,2021-01-19,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,14276,14276,
+Malta,2021-01-20,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,15316,15316,
+Malta,2021-01-21,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,16531,16531,
+Malta,2021-01-22,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,17767,17767,
+Malta,2021-01-23,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,18930,18930,
+Malta,2021-01-25,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,21172,19709,1463
+Malta,2021-01-26,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,22371,20677,1694
+Malta,2021-01-27,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,23512,21417,2095
+Malta,2021-01-28,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,24680,22162,2518
+Malta,2021-01-29,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,25822,22853,2969
+Malta,2021-01-30,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,26847,23391,3456
+Malta,2021-01-31,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,27759,23811,3948
+Malta,2021-02-01,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,29002,24526,4476
+Malta,2021-02-02,Pfizer/BioNTech,https://github.com/COVID19-Malta/COVID19-Cases,30252,25361,4891
+Malta,2021-02-03,"Moderna, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,31633,26223,5410
+Malta,2021-02-04,"Moderna, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,33477,27020,6457
+Malta,2021-02-05,"Moderna, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,35676,28082,7594
+Malta,2021-02-06,"Moderna, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,37586,28837,8749
+Malta,2021-02-07,"Moderna, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,39257,29339,9918
+Malta,2021-02-08,"Moderna, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,41285,30235,11050
+Malta,2021-02-09,"Moderna, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,43337,31202,12135
 Malta,2021-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,44598,31670,12928
 Malta,2021-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,46344,32524,13820
 Malta,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,48474,33735,14739
@@ -69,3 +68,98 @@ Malta,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.c
 Malta,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,166104,117171,48933
 Malta,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,171873,121823,50050
 Malta,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,176612,126055,50557
+Malta,2021-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,180587,129350,51237
+Malta,2021-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,186111,133771,52340
+Malta,2021-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,191716,138176,53540
+Malta,2021-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,197383,142805,54578
+Malta,2021-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,203553,147956,55597
+Malta,2021-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,209065,151942,57123
+Malta,2021-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,212466,154462,58004
+Malta,2021-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,215700,156668,59032
+Malta,2021-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,219161,159065,60096
+Malta,2021-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,223020,161909,61111
+Malta,2021-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,227606,164492,63114
+Malta,2021-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,232335,167130,65205
+Malta,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,237806,170315,67491
+Malta,2021-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,240984,171678,69306
+Malta,2021-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,244718,173237,71481
+Malta,2021-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,249400,175347,74053
+Malta,2021-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,254885,178292,76593
+Malta,2021-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,259272,181133,78139
+Malta,2021-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,264658,183987,80671
+Malta,2021-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,269763,187277,82486
+Malta,2021-04-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,274641,190489,84152
+Malta,2021-04-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,276516,191583,84933
+Malta,2021-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,282841,195071,87770
+Malta,2021-04-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,288797,198624,90173
+Malta,2021-04-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,295587,201860,93727
+Malta,2021-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,301594,204963,96631
+Malta,2021-04-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,307636,208959,98677
+Malta,2021-04-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,311559,211985,99574
+Malta,2021-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,313279,212593,100686
+Malta,2021-04-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,318706,216171,102535
+Malta,2021-04-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,323324,219442,103882
+Malta,2021-04-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,326934,222470,104464
+Malta,2021-04-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,331438,225810,105628
+Malta,2021-04-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,335848,228810,107038
+Malta,2021-05-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,339727,231511,108216
+Malta,2021-05-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,341909,233193,108716
+Malta,2021-05-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,346951,237018,109933
+Malta,2021-05-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,352421,241103,111318
+Malta,2021-05-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,359429,246698,112731
+Malta,2021-05-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,365902,251787,115333
+Malta,2021-05-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,372620,255633,118209
+Malta,2021-05-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,375986,257781,119427
+Malta,2021-05-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,379951,258766,121185
+Malta,2021-05-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,386760,265361,123843
+Malta,2021-05-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,392929,268118,127255
+Malta,2021-05-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,400118,272025,130537
+Malta,2021-05-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,406921,276041,133332
+Malta,2021-05-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,414632,280134,136975
+Malta,2021-05-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,420815,283229,141143
+Malta,2021-05-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,424325,284395,143487
+Malta,2021-05-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,430508,286709,147667
+Malta,2021-05-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,437654,289855,152581
+Malta,2021-05-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,445830,293178,158489
+Malta,2021-05-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,453711,296548,164113
+Malta,2021-05-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,461215,299549,169177
+Malta,2021-05-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,468829,301274,175246
+Malta,2021-05-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,474475,302933,180243
+Malta,2021-05-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,482577,308002,183556
+Malta,2021-05-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,490524,310403,189055
+Malta,2021-05-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,498726,311903,195856
+Malta,2021-05-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,505100,314030,200199
+Malta,2021-05-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,509312,315748,202795
+Malta,2021-05-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,512214,316224,205221
+Malta,2021-05-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,515662,316747,208118
+Malta,2021-05-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,519994,318743,210486
+Malta,2021-06-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,528592,319574,218321
+Malta,2021-06-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,534639,322359,221595
+Malta,2021-06-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,541178,324295,226341
+Malta,2021-06-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,546637,325511,230594
+Malta,2021-06-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,551494,327155,233826
+Malta,2021-06-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,553814,328168,235133
+Malta,2021-06-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,558320,329000,238807
+Malta,2021-06-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,564718,330970,243252
+Malta,2021-06-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,570513,333197,246964
+Malta,2021-06-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,576256,334367,251553
+Malta,2021-06-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,582206,335791,256079
+Malta,2021-06-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,587160,339176,258929
+Malta,2021-06-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,589507,340028,260424
+Malta,2021-06-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,596074,341941,265090
+Malta,2021-06-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,604033,344272,270754
+Malta,2021-06-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,609867,346576,274321
+Malta,2021-06-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,616102,348633,278588
+Malta,2021-06-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,621674,350092,282709
+Malta,2021-06-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,625844,351962,285817
+Malta,2021-06-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,628735,352478,288195
+Malta,2021-06-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,631446,353164,290280
+Malta,2021-06-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,636059,353584,294650
+Malta,2021-06-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,640729,353895,299151
+Malta,2021-06-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,646651,355100,303939
+Malta,2021-06-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,650411,355277,307591
+Malta,2021-06-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,653005,356128,309871
+Malta,2021-06-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,654649,356209,311453
+Malta,2021-06-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,659488,357171,315768
+Malta,2021-06-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,664859,358168,320604
+Malta,2021-06-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://github.com/COVID19-Malta/COVID19-Cases,670759,359169,325891
