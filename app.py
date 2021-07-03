@@ -3,6 +3,7 @@ from datetime import datetime, timedelta
 import pandas as pd
 import time
 import tweepy
+from apscheduler.schedulers.blocking import BlockingScheduler
 
 API_KEY = os.getenv("API_KEY")
 API_SECRET_KEY = os.getenv("API_SECRET_KEY")
@@ -16,6 +17,8 @@ api = tweepy.API(auth)
 
 country = "Indonesia"
 
+sched = BlockingScheduler()
+
 def progress_bar(count, total, country, shot="1st", prefix=""):
     percent = round((count/total), 4)
     length = 35
@@ -27,6 +30,7 @@ def progress_bar(count, total, country, shot="1st", prefix=""):
     else:
         return f"2nd shot \n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
 
+@sched.scheduled_job('interval', hour=1, minutes=0)
 def main():
     fname = "vaccinations/vaccinations.csv"
 
@@ -56,11 +60,4 @@ def main():
     api.update_status(tweet)
     print(tweet)
 
-posted = False
-
-while True:
-    if (datetime.utcnow() + timedelta(hours=7)).hour == 8:
-        main()
-        time.sleep(60*60)
-    else:
-        pass
+sched.start()
