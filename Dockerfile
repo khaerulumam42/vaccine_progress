@@ -39,6 +39,5 @@ USER ${APP_USER}
 COPY --from=builder /opt/venv /opt/venv
 ENV PATH="/opt/venv/bin:$PATH"
 
-EXPOSE ${PORT}
 ENTRYPOINT ["/usr/bin/dumb-init", "--"]
-CMD python3 app.py
+CMD python app.py

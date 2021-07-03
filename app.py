@@ -59,7 +59,7 @@ def main():
 posted = False
 
 while True:
-    if (datetime.utcnow() + timedelta(hours=7)).hour == 8:
+    if (datetime.utcnow() + timedelta(hours=7)).hour == 21:
         main()
         time.sleep(60*60)
     else:
