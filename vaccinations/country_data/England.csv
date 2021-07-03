@@ -1,36 +1,36 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-England,2020-12-08,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,5260,5260,
-England,2020-12-09,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,14793,14793,
-England,2020-12-10,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,26573,26573,
-England,2020-12-11,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,38989,38989,
-England,2020-12-12,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,49512,49512,
-England,2020-12-13,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,55621,55621,
-England,2020-12-14,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,67764,67764,
-England,2020-12-15,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,127543,127543,
-England,2020-12-16,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,224888,224888,
-England,2020-12-17,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,321711,321711,
-England,2020-12-18,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,399199,399199,
-England,2020-12-19,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,489772,489772,
-England,2020-12-20,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,569220,569220,
-England,2020-12-21,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,633350,633350,
-England,2020-12-22,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,720335,720335,
-England,2020-12-23,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,801013,801013,
-England,2020-12-24,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,828529,828529,
-England,2020-12-25,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,828786,828786,
-England,2020-12-26,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,830533,830533,
-England,2020-12-27,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,835426,835426,
-England,2020-12-28,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,844441,844441,
-England,2020-12-29,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,891047,891047,2276
-England,2020-12-30,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,1000728,1000728,6539
-England,2020-12-31,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,1090638,1090638,11337
-England,2021-01-01,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,1115365,1115365,12437
-England,2021-01-02,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,1145356,1145356,17132
-England,2021-01-03,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,1161702,1161702,20938
-England,2021-01-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1189385,1189385,30217
-England,2021-01-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1247720,1247720,77355
-England,2021-01-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1337034,1337034,158294
-England,2021-01-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1539799,1539799,237524
-England,2021-01-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1789336,1789336,297101
+England,2020-12-08,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,5272,5272,
+England,2020-12-09,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,14815,14815,
+England,2020-12-10,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,26606,26606,
+England,2020-12-11,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,39043,39043,
+England,2020-12-12,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,49583,49583,
+England,2020-12-13,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,55708,55708,
+England,2020-12-14,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,67863,67863,
+England,2020-12-15,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,127650,127650,
+England,2020-12-16,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,225000,225000,
+England,2020-12-17,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,321823,321823,
+England,2020-12-18,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,399330,399330,
+England,2020-12-19,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,489897,489897,
+England,2020-12-20,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,569345,569345,
+England,2020-12-21,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,633473,633473,
+England,2020-12-22,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,720450,720450,
+England,2020-12-23,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,801125,801125,
+England,2020-12-24,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,828638,828638,
+England,2020-12-25,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,828895,828895,
+England,2020-12-26,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,830642,830642,
+England,2020-12-27,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,835536,835536,
+England,2020-12-28,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,844551,844551,
+England,2020-12-29,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,891152,891152,2278
+England,2020-12-30,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,1000826,1000826,6541
+England,2020-12-31,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,1090722,1090722,11342
+England,2021-01-01,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,1115442,1115442,12442
+England,2021-01-02,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,1145438,1145438,17137
+England,2021-01-03,Pfizer/BioNTech,https://coronavirus.data.gov.uk/details/vaccinations,1161787,1161787,20943
+England,2021-01-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1189472,1189472,30222
+England,2021-01-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1247808,1247808,77351
+England,2021-01-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1337119,1337119,158287
+England,2021-01-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1539861,1539861,237510
+England,2021-01-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1789369,1789369,297087
 England,2021-01-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2333764,1959151,374613
 England,2021-01-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2474205,2080280,393925
 England,2021-01-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2661850,2254556,407294
@@ -202,3 +202,4 @@ England,2021-06-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://corona
 England,2021-06-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,64904433,37382390,27522043
 England,2021-06-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,65135293,37497766,27637527
 England,2021-06-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,65394783,37618263,27776520
+England,2021-07-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,65682635,37751938,27930697

@@ -18,7 +18,7 @@ country = "Indonesia"
 
 def progress_bar(count, total, country, shot="1st", prefix=""):
     percent = round((count/total), 4)
-    length = 25
+    length = 35
     progress = percent*length
     filled_bar = "█"*int(progress)
     unfilled_bar = "-"*int(length-int(progress))
@@ -47,7 +47,7 @@ def main():
     fully_vaccinated = country_data["people_fully_vaccinated_per_hundred"]
 
     data = {"1st": at_least_one_shot, "2nd": fully_vaccinated}
-    tweet = f"Vaccine Progress for {country}, {last_update}\n\n"
+    tweet = f"{country}, {last_update}\n\n"
 
     for vaccine in data:
         text = progress_bar(data[vaccine], 100, country, vaccine) + "\n"
@@ -59,7 +59,7 @@ def main():
 posted = False
 
 while True:
-    if (datetime.utcnow() + timedelta(hours=7)).hour == 21:
+    if (datetime.utcnow() + timedelta(hours=7)).hour == 8:
         main()
         time.sleep(60*60)
     else:
