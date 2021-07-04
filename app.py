@@ -30,7 +30,7 @@ def progress_bar(count, total, country, shot="1st", prefix=""):
     else:
         return f"2nd shot \n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
 
-@sched.scheduled_job("cron", hour=13)
+@sched.scheduled_job("cron", hour=6, minute=5)
 def main():
     fname = "vaccinations/vaccinations.csv"
 
