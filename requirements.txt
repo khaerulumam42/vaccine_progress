@@ -1,3 +1,6 @@
 pandas==0.24.2
 tweepy==3.8.0
 APScheduler==3.0.0
+lxml==4.6.3
+html5lib==1.1
+BeautifulSoup4==4.9.3

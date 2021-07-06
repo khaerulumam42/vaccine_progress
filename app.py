@@ -30,17 +30,10 @@ def progress_bar(count, total, country, shot="1st", prefix=""):
     else:
         return f"2nd shot \n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
 
-@sched.scheduled_job("cron", hour=6, minute=5)
+@sched.scheduled_job("cron", hour=1, minute=30)
 def main():
-    fname = "vaccinations/vaccinations.csv"
-
-    ts = os.path.getmtime(fname)
-
-    if not datetime.fromtimestamp(ts).date() == datetime.today().date():
-        print(f"data more than 1 day {datetime.fromtimestamp(ts)} {datetime.today().date()}")
-        os.popen("sh update_data.sh")
-
-    time.sleep(5)
+    
+    fname = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
 
     df = pd.read_csv(fname)
 
