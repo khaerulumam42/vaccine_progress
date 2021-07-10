@@ -1,5 +1,5 @@
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 import pandas as pd
 import time
 import tweepy
@@ -16,6 +16,7 @@ auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 api = tweepy.API(auth)
 
 country = "Indonesia"
+max_char = 280
 
 sched = BlockingScheduler()
 
@@ -30,6 +31,28 @@ def progress_bar(count, total, country, shot="1st", prefix=""):
     else:
         return f"2nd shot \n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
 
+@sched.scheduled_job("cron", hour=8, minute=0)
+def top_country(top=10) -> None:
+    anchor_date = date.today() - timedelta(days=1)
+    anchor_date_str = anchor_date.strftime("%Y-%m-%d")
+
+    fname = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    df = pd.read_csv(fname)
+
+    tweet = f"top {top} country, {anchor_date_str}\n\n"
+    filter_date = df.query(f"date == '{anchor_date_str}'")
+    filter_date = filter_date.sort_values("people_fully_vaccinated_per_hundred", ascending=False).reset_index()
+    for index, row in filter_date[:top].iterrows():
+        loc = row["location"]
+        percent = row["people_fully_vaccinated_per_hundred"]
+        pos = index+1
+        text = f"{pos}. {loc} {percent}%\n"
+        tweet += text
+
+    api.update_status(tweet)
+    print(tweet)
+    print(len(tweet))
+    
 @sched.scheduled_job("cron", hour=1, minute=30)
 def main():
     

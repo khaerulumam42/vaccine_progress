@@ -2,3 +2,4 @@ notebook
 .env
 *.csv
 vaccinations/*
+__pycache__/*
