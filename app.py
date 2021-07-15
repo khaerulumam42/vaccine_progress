@@ -33,23 +33,21 @@ def progress_bar(count, total, country, shot="1st", prefix=""):
 
 @sched.scheduled_job("cron", hour=8, minute=10)
 def top_country(top=10) -> None:
-    anchor_date = date.today() - timedelta(days=2)
+    last_days = 3
+    anchor_date = date.today() - timedelta(days=last_days)
     anchor_date_str = anchor_date.strftime("%Y-%m-%d")
 
     fname = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
     df = pd.read_csv(fname)
-    filter_date = df.query(f"date == '{anchor_date_str}'")
-    if len(filter_date) == 0:
-        anchor_date = date.today() - timedelta(days=3)
-        anchor_date_str = anchor_date.strftime("%Y-%m-%d")
-        filter_date = df.query(f"date == '{anchor_date_str}'")
+    df = pd.to_datetime(df["date"])
+    filter_date = df.query(f"date >= '{anchor_date_str}'")
     
     if len(filter_date) == 0:
         print(anchor_date_str)
         return None
     else:
-        tweet = f"top {top} country, {anchor_date_str}\n\n"
-        filter_date = filter_date.sort_values("people_fully_vaccinated_per_hundred", ascending=False).reset_index()
+        tweet = f"top {top} country, {anchor_date_str}. last {last_days} days\n\n"
+        filter_date = filter_date.sort_values("people_fully_vaccinated_per_hundred", ascending=False).drop_duplicates(["location"]).reset_index()
         for index, row in filter_date[:top].iterrows():
             loc = row["location"]
             percent = row["people_fully_vaccinated_per_hundred"]
