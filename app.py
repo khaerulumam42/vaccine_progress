@@ -31,7 +31,7 @@ def progress_bar(count, total, country, shot="1st", prefix=""):
     else:
         return f"2nd shot \n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
 
-@sched.scheduled_job("cron", hour=8, minute=10)
+@sched.scheduled_job("cron", hour=9, minute=0)
 def top_country(top=10) -> None:
     last_days = 3
     anchor_date = date.today() - timedelta(days=last_days)
@@ -39,7 +39,7 @@ def top_country(top=10) -> None:
 
     fname = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
     df = pd.read_csv(fname)
-    df = pd.to_datetime(df["date"])
+    df["date"] = pd.to_datetime(df["date"])
     filter_date = df.query(f"date >= '{anchor_date_str}'")
     
     if len(filter_date) == 0:
