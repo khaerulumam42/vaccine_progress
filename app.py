@@ -71,9 +71,11 @@ def main():
     last_update = country_data["date"]
     at_least_one_shot = country_data["people_vaccinated_per_hundred"]
     fully_vaccinated = country_data["people_fully_vaccinated_per_hundred"]
+    daily_vaccinations = "{:,}".format(country_data["daily_vaccinations"])
+    daily_vaccinations = daily_vaccinations.replace(",", ".")
 
     data = {"1st": at_least_one_shot, "2nd": fully_vaccinated}
-    tweet = f"{country}, {last_update}\n\n"
+    tweet = f"{country}, {last_update} +{daily_vaccinations}\n\n"
 
     for vaccine in data:
         text = progress_bar(data[vaccine], 100, country, vaccine) + "\n"
