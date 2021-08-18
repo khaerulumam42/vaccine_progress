@@ -20,16 +20,19 @@ max_char = 280
 
 sched = BlockingScheduler()
 
-def progress_bar(count, total, country, shot="1st", prefix=""):
+def progress_bar(vaccine, total, country, shot="1st", prefix=""):
+    count = vaccine["percent"]
+    count_number = vaccine["count_number"]
+    
     percent = round((count/total), 4)
-    length = 35
+    length = 30
     progress = percent*length
     filled_bar = "█"*int(progress)
     unfilled_bar = "-"*int(length-int(progress))
     if shot == "1st":
-        return f"1st shot \n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
+        return f"1st shot - {count_number}\n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
     else:
-        return f"2nd shot \n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
+        return f"2nd shot - {count_number}\n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
 
 @sched.scheduled_job("cron", hour=9, minute=0)
 def top_country(top=10) -> None:
@@ -59,7 +62,7 @@ def top_country(top=10) -> None:
         print(tweet)
         print(len(tweet))
     
-@sched.scheduled_job("cron", hour=1, minute=30)
+@sched.scheduled_job("cron", hour=2, minute=30)
 def main():
     
     fname = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
@@ -74,7 +77,16 @@ def main():
     daily_vaccinations = "{:,}".format(country_data["daily_vaccinations"])
     daily_vaccinations = daily_vaccinations.replace(",", ".")
 
-    data = {"1st": at_least_one_shot, "2nd": fully_vaccinated}
+    people_vaccinated = "{:,}".format(country_data["people_vaccinated"])
+    people_vaccinated = people_vaccinated.replace(",", ".")
+
+    people_fully_vaccinated = "{:,}".format(country_data["people_fully_vaccinated"])
+    people_fully_vaccinated = people_fully_vaccinated.replace(",", ".")
+
+    data = {"1st": {"percent": at_least_one_shot, "count_number": people_vaccinated}, \
+        "2nd": {"percent": fully_vaccinated, "count_number": people_vaccinated}
+        }
+
     tweet = f"{country}, {last_update} +{daily_vaccinations}\n\n"
 
     for vaccine in data:
