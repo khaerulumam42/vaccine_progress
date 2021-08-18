@@ -65,6 +65,23 @@ def top_country(top=10) -> None:
 @sched.scheduled_job("cron", hour=2, minute=35)
 def main():
     
+    available_loc = api.trends_available()
+    loc_id = None
+    for loc in available_loc:
+        if loc["name"].lower() == "indonesia":
+            loc_id=loc["woeid"]
+            break
+    trends = api.trends_place(loc_id)
+    trends_query = [trend["name"] for trend in trends[0]["trends"]]
+    hashtags = []
+    for trend in trends_query[:5]:
+        if trend.startswith("#"):
+            hashtags.append(trend)
+        else:
+            hashtags.append("#"+trend)
+    
+    hashtags = " ".join(hashtags)
+
     fname = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
 
     df = pd.read_csv(fname)
@@ -93,6 +110,7 @@ def main():
         text = progress_bar(data[vaccine], 100, country, vaccine) + "\n"
         tweet += text
 
+    tweet += f"\n{hashtags}"
     api.update_status(tweet)
     print(tweet)
 
