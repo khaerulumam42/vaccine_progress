@@ -62,7 +62,7 @@ def top_country(top=10) -> None:
         print(tweet)
         print(len(tweet))
     
-@sched.scheduled_job("cron", hour=2, minute=30)
+@sched.scheduled_job("cron", hour=2, minute=35)
 def main():
     
     fname = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
@@ -77,14 +77,14 @@ def main():
     daily_vaccinations = "{:,}".format(country_data["daily_vaccinations"])
     daily_vaccinations = daily_vaccinations.replace(",", ".")
 
-    people_vaccinated = "{:,}".format(country_data["people_vaccinated"])
+    people_vaccinated = "{:,}".format(int(country_data["people_vaccinated"]))
     people_vaccinated = people_vaccinated.replace(",", ".")
 
-    people_fully_vaccinated = "{:,}".format(country_data["people_fully_vaccinated"])
+    people_fully_vaccinated = "{:,}".format(int(country_data["people_fully_vaccinated"]))
     people_fully_vaccinated = people_fully_vaccinated.replace(",", ".")
 
     data = {"1st": {"percent": at_least_one_shot, "count_number": people_vaccinated}, \
-        "2nd": {"percent": fully_vaccinated, "count_number": people_vaccinated}
+        "2nd": {"percent": fully_vaccinated, "count_number": people_fully_vaccinated}
         }
 
     tweet = f"{country}, {last_update} +{daily_vaccinations}\n\n"
