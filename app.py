@@ -73,13 +73,13 @@ def main():
             break
     trends = api.trends_place(loc_id)
     trends_query = [trend["name"] for trend in trends[0]["trends"]]
-    hashtags = []
-    for trend in trends_query[:5]:
-        if trend.startswith("#"):
-            hashtags.append(trend)
-        else:
-            hashtags.append("#"+trend)
-    
+    # hashtags = []
+    # for trend in trends_query[:5]:
+    #     if trend.startswith("#"):
+    #         hashtags.append(trend)
+    #     else:
+    #         hashtags.append("#"+trend)
+    hashtags = ["#vaccine", "#covid19", "#vaksin", "#covid", "#indonesia"]
     hashtags = " ".join(hashtags)
 
     fname = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
@@ -91,7 +91,7 @@ def main():
     last_update = country_data["date"]
     at_least_one_shot = country_data["people_vaccinated_per_hundred"]
     fully_vaccinated = country_data["people_fully_vaccinated_per_hundred"]
-    daily_vaccinations = "{:,}".format(country_data["daily_vaccinations"])
+    daily_vaccinations = "{:,}".format(int(country_data["daily_vaccinations"]))
     daily_vaccinations = daily_vaccinations.replace(",", ".")
 
     people_vaccinated = "{:,}".format(int(country_data["people_vaccinated"]))
@@ -110,7 +110,7 @@ def main():
         text = progress_bar(data[vaccine], 100, country, vaccine) + "\n"
         tweet += text
 
-    tweet += f"\n{hashtags}"
+    # tweet += f"\n{hashtags}"
     api.update_status(tweet)
     print(tweet)
 
