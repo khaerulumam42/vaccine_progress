@@ -31,8 +31,7 @@ def progress_bar(vaccine, total, country, shot="1st", prefix=""):
     unfilled_bar = "-"*int(length-int(progress))
     if shot == "1st":
         return f"1st shot - {count_number}\n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
-    else:
-        return f"2nd shot - {count_number}\n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
+    return f"2nd shot - {count_number}\n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
 
 @sched.scheduled_job("cron", hour=9, minute=0)
 def top_country(top=10) -> None:
@@ -48,19 +47,19 @@ def top_country(top=10) -> None:
     if len(filter_date) == 0:
         print(anchor_date_str)
         return None
-    else:
-        tweet = f"top {top} country, {anchor_date_str}. last {last_days} days\n\n"
-        filter_date = filter_date.sort_values("people_fully_vaccinated_per_hundred", ascending=False).drop_duplicates(["location"]).reset_index()
-        for index, row in filter_date[:top].iterrows():
-            loc = row["location"]
-            percent = row["people_fully_vaccinated_per_hundred"]
-            pos = index+1
-            text = f"{pos}. {loc} {percent}%\n"
-            tweet += text
 
-        api.update_status(tweet)
-        print(tweet)
-        print(len(tweet))
+    tweet = f"top {top} country, {anchor_date_str}. last {last_days} days\n\n"
+    filter_date = filter_date.sort_values("people_fully_vaccinated_per_hundred", ascending=False).drop_duplicates(["location"]).reset_index()
+    for index, row in filter_date[:top].iterrows():
+        loc = row["location"]
+        percent = row["people_fully_vaccinated_per_hundred"]
+        pos = index+1
+        text = f"{pos}. {loc} {percent}%\n"
+        tweet += text
+
+    api.update_status(tweet)
+    print(tweet)
+    print(len(tweet))
     
 @sched.scheduled_job("cron", hour=2, minute=35)
 def main():
