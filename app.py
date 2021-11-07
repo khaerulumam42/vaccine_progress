@@ -25,10 +25,10 @@ def progress_bar(vaccine, total, country, shot="1st", prefix=""):
     count_number = vaccine["count_number"]
     
     percent = round((count/total), 4)
-    length = 30
+    length = 20
     progress = percent*length
     filled_bar = "█"*int(progress)
-    unfilled_bar = "-"*int(length-int(progress))
+    unfilled_bar = "--"*int(length-int(progress))
     if shot == "1st":
         return f"1st shot - {count_number}\n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
     return f"2nd shot - {count_number}\n|{filled_bar}{unfilled_bar}| {round((percent*100), 3)}%"
@@ -95,6 +95,5 @@ def main():
 
         api.update_status(tweet)
         print(tweet)
-        time.sleep(5)
 
 sched.start()
