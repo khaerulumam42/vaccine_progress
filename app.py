@@ -61,7 +61,7 @@ def top_country(top=10) -> None:
     print(tweet)
     print(len(tweet))
     
-@sched.scheduled_job("cron", hour=2, minute=35)
+@sched.scheduled_job("cron", hour=3, minute=30)
 def main():
     fname = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
 
