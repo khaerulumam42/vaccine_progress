@@ -4,6 +4,7 @@ import pandas as pd
 import time
 import tweepy
 from apscheduler.schedulers.blocking import BlockingScheduler
+from multiprocessing.pool import ThreadPool as Pool
 
 API_KEY = os.getenv("API_KEY")
 API_SECRET_KEY = os.getenv("API_SECRET_KEY")
@@ -16,6 +17,9 @@ auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 api = tweepy.API(auth)
 
 countries = ["Indonesia","Thailand","Philippines","Vietnam","Singapore","Malaysia","Myanmar","Cambodia","Laos","Brunei","Timor"]
+pool_size = len(countries)
+pool = Pool(pool_size)
+
 max_char = 280
 
 sched = BlockingScheduler()
@@ -61,39 +65,45 @@ def top_country(top=10) -> None:
     print(tweet)
     print(len(tweet))
     
-@sched.scheduled_job("cron", hour=3, minute=30)
+@sched.scheduled_job("cron", hour=3, minute=0)
 def main():
     fname = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
 
     df = pd.read_csv(fname)
 
     for country in countries:
-        print(f"process country {country}")
-        country_data = df[df["location"] == country].sort_values("date").iloc[-1]
+        pool.apply_async(get_tweet_text, (df, country,))
+    
+    pool.close()
+    pool.join()
 
-        last_update = country_data["date"]
-        at_least_one_shot = country_data["people_vaccinated_per_hundred"]
-        fully_vaccinated = country_data["people_fully_vaccinated_per_hundred"]
-        daily_vaccinations = "{:,}".format(int(country_data["daily_vaccinations"]))
-        daily_vaccinations = daily_vaccinations.replace(",", ".")
+def get_tweet_text(df, country):
+    print(f"process country {country}")
+    country_data = df[df["location"] == country].sort_values("date").iloc[-1]
 
-        people_vaccinated = "{:,}".format(int(country_data["people_vaccinated"]))
-        people_vaccinated = people_vaccinated.replace(",", ".")
+    last_update = country_data["date"]
+    at_least_one_shot = country_data["people_vaccinated_per_hundred"]
+    fully_vaccinated = country_data["people_fully_vaccinated_per_hundred"]
+    daily_vaccinations = "{:,}".format(int(country_data["daily_vaccinations"]))
+    daily_vaccinations = daily_vaccinations.replace(",", ".")
 
-        people_fully_vaccinated = "{:,}".format(int(country_data["people_fully_vaccinated"]))
-        people_fully_vaccinated = people_fully_vaccinated.replace(",", ".")
+    people_vaccinated = "{:,}".format(int(country_data["people_vaccinated"]))
+    people_vaccinated = people_vaccinated.replace(",", ".")
 
-        data = {"1st": {"percent": at_least_one_shot, "count_number": people_vaccinated}, \
-            "2nd": {"percent": fully_vaccinated, "count_number": people_fully_vaccinated}
-            }
+    people_fully_vaccinated = "{:,}".format(int(country_data["people_fully_vaccinated"]))
+    people_fully_vaccinated = people_fully_vaccinated.replace(",", ".")
 
-        tweet = f"{country}, {last_update} +{daily_vaccinations}\n\n"
+    data = {"1st": {"percent": at_least_one_shot, "count_number": people_vaccinated}, \
+        "2nd": {"percent": fully_vaccinated, "count_number": people_fully_vaccinated}
+        }
 
-        for vaccine in data:
-            text = progress_bar(data[vaccine], 100, country, vaccine) + "\n"
-            tweet += text
+    tweet = f"{country}, {last_update} +{daily_vaccinations}\n\n"
 
-        api.update_status(tweet)
-        print(tweet)
+    for vaccine in data:
+        text = progress_bar(data[vaccine], 100, country, vaccine) + "\n"
+        tweet += text
+
+    api.update_status(tweet)
+    print(tweet)
 
 sched.start()
